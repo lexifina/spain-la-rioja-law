@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas normas o disposiciones de igual o inferior rango se opongan a lo establecido en esta Ley, y de forma expresa queda derogada la Ley 4/1991, de 25 de marzo, de creación del Servicio Riojano de Salud y el Decreto 63/2001, de 28 de diciembre, por el que se constituye el Servicio Riojano de Salud, salvo lo dispuesto en su artículo 1, y se modifica el Decreto 20/2001, relativo al ejercicio de competencias administrativas.

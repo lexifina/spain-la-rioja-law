@@ -1,0 +1,2 @@
+Disposición final única.
+La presente Ley se publicará en el «Boletín Oficial de La Rioja» y en el «Boletín Oficial del Estado» y entrará en vigor el día siguiente al de su última publicación.

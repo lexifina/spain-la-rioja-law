@@ -1,0 +1,3 @@
+Disposición derogatoria única.
+1. Quedan derogadas todas las normas de igual o inferior rango que contradigan o se opongan a lo que dispone esta Ley. La normativa en materia de patrimonio cultural, histórico y artístico que no se oponga a lo previsto en la presente Ley permanecerá en vigor, hasta tanto no se aprueben las normas reglamentarias que las sustituyan.
+2. Mientras no se desarrolle reglamentariamente la presente Ley en lo referente al Consejo Superior del Patrimonio Cultural, Histórico y Artístico de La Rioja, se mantendrán en vigor el Decreto 6/1984, de 15 de febrero, regulador de la Comisión del Patrimonio Histórico-Artístico de La Rioja.

@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de rango legal o reglamentario se opongan a lo dispuesto en la presente Ley y, en especial, los artículos 97 a 102 de la Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y la Administración Pública de la Comunidad Autónoma de La Rioja y la disposición transitoria de la Ley 10/1995, de 29 de diciembre, modificadora de la legislación de la Comunidad Autónoma de La Rioja en materia de Tasas, Régimen Jurídico y Local y Función Pública.

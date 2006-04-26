@@ -1,0 +1,2 @@
+Disposición adicional única. Dotación de medios personales y materiales.
+Por las Consejerías competentes en materia de hacienda y administraciones públicas se llevarán a cabo las actuaciones oportunas, en la medida de las disponibilidades presupuestarias, para la dotación de los medios personales y materiales que resulten necesarios para la puesta en funcionamiento del Instituto de Estudios Riojanos.

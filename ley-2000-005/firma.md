@@ -99,3 +99,20 @@ Nitrógeno nítrico (mg/l) | 20
 Detergentes biodegradables (mg/l) | 10
 Pesticidas (mg/l) | 0,2
 Total metales (Zn + Cu + Ni + Al + Fe + Cr + Cd + Pb + Sn + Hg) (mg/l) | < 20
+Total metales tóxicos (Zn+Cu+Ni+Cr+Cd+Pb+Hg) (mg/l) | 5
+Ecotoxicidad (equitox/m3) *(1) | 25
+Organohalogenados absorbibles (AOX) (mg Cl/l) | 3
+Trihalometanos total (mg/l) | 2,5
+Benceno (mg/l) | 0,5
+Tolueno (mg/l) | 0,5
+Etilbenceno (mg/l) | 0,5
+Xileno (mg/l) | 0,5
+Total BTEX (Benceno, tolueno, etilbenceno, xileno) (mg/l) | 1,5
+Hidrocarburos aromáticos policíclicos (PAH) (mg/l) *(2) | 0,5
+Hidrocarburos totales (mg/l) | 15
+* Todas las concentraciones de metales contenidas en la presente tabla se refieren a metales totales (fracción disuelta más fracción suspendida).
+*(1) Técnica analítica: ensayo de toxicidad aguda en Daphnia («Daphnia Magna») y/o ensayo de inhibición de bioluminiscencia («Photobacterium phosphoreum»). Se considerará rebasado el valor límite establecido cuando se sobrepase con una de las técnicas indicadas.
+*(2) La concentración de PAH se obtendrá considerando la suma de los siguientes compuestos: Acenaftileno, acenafteno, antraceno, benzo(a)antraceno, benzo(b)fluoranteno, benzo(k)fluoranteno, benzo(a)pireno, benzo(ghi)perileno, criseno, dibenzo(ah)antraceno, fenantreno, fluoreno, fluoranteno, indeno(1,2,3 cd)pireno, naftaleno, pireno. Individualmente cada uno de los componentes del grupo PAH no podrá superar el valor límite de 0,1 mg/l.»
+1. La realización de vertidos que superen los valores límite indicados en este anexo, en relación con sustancias que a su vez se encuentren en el anexo I, tendrá la consideración de vertidos prohibidos.
+2. De manera excepcional, en casos justificados, la autorización de vertido podrá contener valores límite hasta un 100 % superiores a los anteriormente establecidos para los parámetros Conductividad, DBO5, DQO y sulfatos. Para ello, el titular del vertido deberá justificar la imposibilidad técnico-económica de alcanzar los valores fijados en las disposiciones legales o reglamentarias aplicables así como la no existencia de efectos adversos sobre las instalaciones, la salud humana o el medio ambiente, solicitando la aplicación de la presente excepción a la Administración competente que hubiera de autorizar el vertido. La mencionada autorización requerirá informe previo vinculante de la Consejería competente en materia de medio ambiente. El nuevo límite tendrá la vigencia temporal de la autorización.
+Se modifica por el art. 33.14 y 15 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.

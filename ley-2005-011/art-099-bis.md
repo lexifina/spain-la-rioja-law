@@ -1,0 +1,4 @@
+Artículo 99 bis. Autorizaciones especiales de uso sobre bienes afectados.
+El consejero, el presidente o director del organismo que tuviese adscritos bienes demaniales del patrimonio autonómico podrá autorizar su uso por personas físicas o jurídicas, públicas o privadas para el cumplimiento esporádico o temporal de fines o funciones públicas, previo informe de la Consejería competente en materia de Hacienda, por plazo de cuatro años, prorrogables por igual tiempo.
+Dichas autorizaciones se otorgarán por el Consejero competente en materia de Hacienda, a propuesta de la Consejería, presidente o director del organismo, cuando se trate de entes integrantes del sector público, sin sujeción a las limitaciones de plazo y destino expresadas en el apartado anterior.
+Se añade por el art. 30.2 de la Ley 5/2008, de 23 de diciembre. Ref. BOE-A-2009-1262.

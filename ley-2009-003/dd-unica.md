@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley y en concreto las siguientes:
+a) La Ley 3/1998, de 16 de marzo, de Investigación y Desarrollo Tecnológico de La Rioja.
+b) El Decreto 61/1998, de 6 de noviembre, por el que se desarrolla la Ley 3/1998, de 16 de marzo, de Investigación y Desarrollo Tecnológico de La Rioja, en lo relativo a la Organización y Planificación de la Política Científica y Tecnológica de la Comunidad Autónoma de La Rioja, los Centros y el Registro de Investigación y Desarrollo Tecnológico, salvo en la regulación referida a la Comisión Interdepartamental, el Consejo Riojano de Investigación y Desarrollo Tecnológico y el Registro de Investigación y Desarrollo Tecnológico en lo que no se oponga a esta ley, que permanecerá vigente.

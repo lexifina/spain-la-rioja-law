@@ -1,0 +1,3 @@
+Artículo 15 bis. Convenios patrimoniales y urbanísticos.
+La Administración autonómica podrá celebrar convenios con otras Administraciones Públicas o con personas jurídicas de derecho público o privado pertenecientes al sector público, con el fin de ordenar las relaciones de carácter patrimonial y urbanístico entre ellas en un determinado ámbito o realizar actuaciones comprendidas en esta Ley en relación con los bienes y derechos de sus respectivos patrimonios, sin perjuicio de lo dispuesto en el artículo 114.1 de la Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo.
+Se añade por el art. 30.1 de la Ley 5/2008, de 23 de diciembre. Ref. BOE-A-2009-1262.

@@ -1,0 +1,4 @@
+Disposición final única. Desarrollo de la ley y entrada en vigor.
+1. Se faculta al Consejo de Gobierno para que, en el plazo de un año desde la entrada en vigor de la presente ley, dicte las disposiciones que requieran el desarrollo y la aplicación de la misma.
+2. En tanto se produce el desarrollo reglamentario previsto en el apartado anterior, continuarán en vigor aquellos preceptos del Decreto 14/1999, de 16 de abril, por el que se aprueba el Reglamento Marco de las Policías Locales de La Rioja, y de la Orden de 16 de marzo de 2001, por la que se establecen las bases, baremos y programas mínimos para el ingreso en los Cuerpos de Policía Local de La Rioja, en lo que no se oponga a lo establecido en la presente ley.
+3. La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de La Rioja».

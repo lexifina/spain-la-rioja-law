@@ -1,0 +1,5 @@
+Artículo 48.bis. Consejeros Generales representantes de entidades representativas de intereses colectivos.
+1. A efectos de la presente Ley, se entenderá por entidades representativas de intereses colectivos a aquellas organizaciones de naturaleza no pública que representen intereses sociales y colectivos dentro del ámbito territorial de actuación de la Caja de Ahorros, siempre que no guarden conflicto de intereses con la misma en los términos que determinen los Estatutos.
+2. Los Consejeros Generales correspondientes a entidades representativas de intereses colectivos se designarán por organizaciones o entidades declaradas de utilidad pública, que pertenezcan al sector de la economía social o cuya finalidad se circunscriba de modo preferente a las áreas socioeconómicas definidas en el artículo 83 de esta Ley.
+3. Los Estatutos o el Reglamento de Procedimiento Electoral de cada Caja de Ahorros determinarán las entidades de interés general que van a estar representadas entre las entidades incluidas en la relación que apruebe la Consejería de Hacienda.
+Se añade por el art. 38.16 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-469

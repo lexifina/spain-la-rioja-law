@@ -1,0 +1,2 @@
+Disposición adicional única. Constitución de la Comisión Institucional de Coordinación para la Sensibilización, Protección y Recuperación Integral de las Víctimas de Violencia de La Rioja.
+En el plazo de un año desde la entrada en vigor de la presente ley, se procederá a la creación y constitución de la Comisión Institucional de Coordinación para la Sensibilización, Protección y Recuperación Integral de las Víctimas de Violencia de La Rioja.

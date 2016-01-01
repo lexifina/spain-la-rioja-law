@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación de otras disposiciones legales.
+Quedan derogados los artículos 35 a 48 de la Ley 7/2012, de 21 de diciembre, de Medidas Fiscales y Administrativas para el año 2013, los artículos 1 a 43 de la Ley 7/2014, de 23 de diciembre, de Medidas Fiscales y Administrativas para el año 2015, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.

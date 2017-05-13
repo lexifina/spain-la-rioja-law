@@ -1,0 +1,5 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La Ley de Cuentas Abiertas complementa a la Ley 3/2014, de 11 de septiembre, de Transparencia y Buen Gobierno de La Rioja, a la que modifica para incluir dentro de la información económica a suministrar en el Portal de la Transparencia la relativa a las cuentas bancarias de la Administración de la Comunidad Autónoma de La Rioja y demás organismos del sector público presentes en el ámbito subjetivo de dicha ley de transparencia.
+Esta norma se enmarca en la creciente apertura de las administraciones públicas al suministro de datos e información sobre su actividad sin merma de los derechos e intereses legítimos afectados por las decisiones que puedan adoptarse. Profundiza en la idea de que los datos de las administraciones son propiedad de todos los ciudadanos e incrementa los controles para evitar el uso fraudulento de los fondos públicos, así como de los casos de corrupción.

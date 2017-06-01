@@ -1,0 +1,3 @@
+Disposición adicional única. Acuerdos voluntarios.
+La Comunidad Autónoma de La Rioja promoverá el establecimiento de acuerdos voluntarios que fomenten la aplicación del principio de responsabilidad de los agentes económicos y sociales en la protección del medio ambiente.
+Los convenios se celebrarán por la Administración Pública competente con los distintos sectores económicos y sociales para compatibilizar las diferentes actividades que se desarrollen en la Comunidad Autónoma de La Rioja en relación con la protección del medio ambiente, de manera que permitan alcanzar un mayor nivel de protección que el establecido en las leyes y en los planes y programas públicos de ordenación territorial o relativos a sectores estratégicos o de protección ambiental.

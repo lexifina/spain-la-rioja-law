@@ -1,0 +1,3 @@
+Disposición transitoria única. Extinción de las prestaciones de inserción social.
+1. A partir de la entrada en vigor previsto en la disposición final tercera, se producirá la extinción de la prestaciones de inserción social reguladas por el Decreto 24/2001, de 20 de abril. Los titulares de aquellas pasarán a ser titulares de la renta de ciudadanía, asignándoles el importe correspondiente a la cuantía básica de la misma.
+2. En el plazo máximo de un año, se revisarán los expedientes correspondientes a los titulares a los que se refiere el apartado anterior de esta disposición y se actualizarán las cuantías de la renta de ciudadanía a las que les correspondan en aplicación del artículo 13 de la presente ley.

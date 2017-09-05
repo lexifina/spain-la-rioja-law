@@ -77,12 +77,11 @@ Prestaciones
 2.1.1 Prestaciones para familias con menores declarados en situación de riesgo.
 2.1.2 Prestaciones para familias con menores en acogimiento familiar.
 2.2 Prestaciones para la adopción internacional.
-2.3 Prestaciones de inserción social:
-2.3.1 Ingreso Mínimo de Inserción.
-2.3.2 Ayuda de Inclusión Social.
+2.3 Renta de ciudadanía
 2.4 Prestaciones del Sistema Riojano para la Autonomía Personal y la Dependencia.
 2.4.1 Ayudas a personas con discapacidad.
 2.4.2 Prestación económica vinculada al servicio.
 2.4.3 Prestación para cuidados en el entorno familiar y apoyo a cuidadores no profesionales.
 2.4.4 Prestación económica de asistencia personal.
 2.5 Prestaciones para mujeres víctimas de violencia de género.
+Se modifica el punto 2.3 del apartado "Prestaciones" por la disposición final 1 de la Ley 4/2017, de 28 de abril. Ref. BOE-A-2017-5627#df

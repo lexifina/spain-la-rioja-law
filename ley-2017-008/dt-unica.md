@@ -1,0 +1,3 @@
+Disposición transitoria única. Reconocimiento de perros guía no inscritos y de otros perros de asistencia existentes a la entrada en vigor de la ley.
+Los perros guía existentes a la entrada en vigor de la presente ley que no estuviesen inscritos en el Registro de perros guía, así como los demás perros de asistencia existentes a la entrada en vigor de la presente ley, deberán adecuarse a los requisitos de reconocimiento e identificación previstos en la presente ley, en el plazo de los seis meses siguientes a la entrada en vigor.
+Reglamentariamente se establecerán las condiciones y requisitos para el reconocimiento de la condición de perro de asistencia y el diseño del distintivo oficial.

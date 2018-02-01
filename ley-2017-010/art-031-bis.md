@@ -1,0 +1,7 @@
+Artículo 31 bis. Modificación del mínimo por descendientes discapacitados.
+De conformidad con lo dispuesto en el artículo 46.1.a) de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, se incrementa en un 10 % el mínimo por discapacidad de descendientes establecido en el artículo 60.2 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+Así, el mínimo por discapacidad de descendientes será de 3.300 euros anuales. Dicho importe será de 9.900 euros anuales cuando se acredite un grado de discapacidad igual o superior al 65 %.
+No se modifica la cuantía del concepto 'gastos de asistencia' regulado en el párrafo segundo del mencionado artículo 60.2 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+Para tener derecho a este incremento deberán cumplirse los requisitos establecidos en los artículos 60 y 61 de la Ley del Impuesto sobre la Renta, y acreditarse el grado de discapacidad.
+Se añade por el art. 1.2 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+Téngase en cuenta que esta modificación entra en vigor desde el 1 de enero de 2018, según establece la disposición final única de la citada Ley.

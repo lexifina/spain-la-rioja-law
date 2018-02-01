@@ -10,12 +10,13 @@ Secretario General Técnico, Director General o Alto Cargo con el mismo rango ex
 Subdirector General: 20%
 d) La cantidad resultante englobará la retribución anual del Alto Cargo sin que pueda generarse otra retribución por cualquier otro concepto, sin perjuicio de lo dispuesto en cuanto las retribuciones por antigüedad en la Ley de Presupuestos Generales de la Comunidad Autónoma de La Rioja para cada ejercicio.
 2. Se autoriza al Parlamento de La Rioja a fijar las retribuciones e indemnizaciones de sus miembros de acuerdo con las siguientes normas:
-a) La asignación retributiva básica del Presidente del Parlamento se homologará a la cantidad que corresponda al Vicepresidente del Gobierno de La Rioja. La cantidad resultante englobará la indemnización anual por gastos a la que se refiere el apartado d) siguiente.
-b) Las retribuciones de los Portavoces de los Grupos Parlamentarios se establecerán disminuyendo la asignación retributiva del Presidente del Parlamento en un 24%.
-c) Las retribuciones de los demás Diputados con dedicación exclusiva se establecerá disminuyendo un 10% las de los Portavoces.
-d) Los Diputados percibirán como máximo una indemnización anual por gastos derivados del ejercicio de la función parlamentaria que se establecerán tomando como referencia la retribución del Presidente del Parlamento según los siguientes porcentajes que, en ningún caso, serán acumulativos:
-Miembro Mesa Parlamento: 20%.
-Portavoz Grupo Parlamentario: 15%.
-Presidente Comisión y Portavoz Adjunto: 12%.
-Vicepresidente y Secretario Comisión: 11%.
-Diputado: 10%.
+a) La asignación retributiva básica del presidente del Parlamento se establecerá disminuyendo la asignación retributiva del presidente del Gobierno de La Rioja en un 28%. La cantidad resultante englobará la indemnización anual por gastos a la que se refiere el apartado d) siguiente.
+b) Las retribuciones de los portavoces de los grupos parlamentarios se establecerán disminuyendo la asignación retributiva del presidente del Gobierno de La Rioja en un 28%.
+c) Las retribuciones de los demás diputados con dedicación exclusiva se establecerá disminuyendo un 10 % las de los portavoces.
+d) Los diputados percibirán como máximo una indemnización anual por gastos derivados del ejercicio de la función parlamentaria que se establecerán tomando como referencia la retribución del presidente del Parlamento según los siguientes porcentajes que, en ningún caso, serán acumulativos:
+1.º Miembro Mesa Parlamento 27%.
+2.º Portavoz grupo parlamentario 20%.
+3.º Presidente comisión y portavoz adjunto 16%.
+4.º Vicepresidente y secretario comisión 15%.
+5.º Diputado 14%.
+Se modifica el apartado 2 por el art. 18 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917

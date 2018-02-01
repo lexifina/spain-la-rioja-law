@@ -1,0 +1,6 @@
+Artículo 61 bis. Subvenciones a entidades sin ánimo de lucro.
+1. Las Administraciones Públicas de La Rioja competentes en servicios sociales podrán otorgar subvenciones a las entidades de iniciativa social para coadyuvar al cumplimiento de sus actividades de servicios sociales.
+2. La suscripción de convenios de colaboración y el otorgamiento de subvenciones deberá efectuarse en función del contenido y finalidad de los planes de servicios sociales elaborados de acuerdo con la presente ley, y deberá dirigirse fundamentalmente a la creación, el mantenimiento, la mejora y la modernización de los centros, a la promoción y el desarrollo de programas y actividades de servicios sociales y a la promoción de acciones formativas, programas de calidad y actividades de investigación y desarrollo relacionadas con los servicios sociales.
+3. Las subvenciones deben otorgarse de acuerdo con los principios de publicidad, transparencia, concurrencia, objetividad, igualdad, no discriminación, eficacia y eficiencia.
+4. Las entidades beneficiarias de financiación pública deben destinarla a las finalidades previstas y justificar ante la Administración correspondiente su correcta aplicación.
+Se añade por el art. 10.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917

@@ -1,1 +1,1 @@
-Queda suspendida desde el 24 de octubre de 2013 la vigencia de esta norma por el art. único de la Ley 9/2013, de 21 de octubre. Ref. BOE-A-2013-11596.
+Con efectos de 1 de febrero de 2020, se declara la vigencia de esta norma, por el art. 19.1 y la disposición final única de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939; vigencia que quedó suspendida desde el 24 de octubre de 2013, por el art. único de la Ley 9/2013, de 21 de octubre. Ref. BOE-A-2013-11596.

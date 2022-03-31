@@ -1,0 +1,2 @@
+Disposición derogatoria única. Disposiciones derogadas.
+Se derogan la Ley 3/2012, de 20 de julio, por la que se suspende el funcionamiento del Consejo Económico y Social de La Rioja, el Decreto 48/2012, de 27 de julio, por el que se desarrolla la Ley 3/2012, de 20 de julio, por la que se suspende el funcionamiento del Consejo Económico y Social de La Rioja, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.

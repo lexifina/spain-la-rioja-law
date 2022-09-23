@@ -16,6 +16,7 @@ Servicios
 1.4.4 Servicio de intervención en las familias con menores declarados en situación de riesgo.
 1.4.5 Servicio de intervención en las familias con menores en situación de desamparo.
 1.5 Servicio de primera información y atención a las mujeres víctimas de violencia de género.
+1.6 Servicio de Urgencias Sociales de la Comunidad Autónoma de La Rioja.
 2 Servicios sociales de segundo nivel:
 2.1 Atención a la Infancia.
 2.1.1 Servicio de protección de menores.
@@ -84,4 +85,5 @@ Prestaciones
 2.4.3 Prestación para cuidados en el entorno familiar y apoyo a cuidadores no profesionales.
 2.4.4 Prestación económica de asistencia personal.
 2.5 Prestaciones para mujeres víctimas de violencia de género.
+Se añade el punto 1.6 al apartado "Servicios" por la disposición final 2 de la Ley 11/2022, de 20 de septiembre. Ref. BOE-A-2022-16127#df-2
 Se modifica el punto 2.3 del apartado "Prestaciones" por la disposición final 1 de la Ley 4/2017, de 28 de abril. Ref. BOE-A-2017-5627#df

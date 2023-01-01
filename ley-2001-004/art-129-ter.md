@@ -1,0 +1,21 @@
+Sección 14.ª De las cooperativas de viviendas en cesión de uso
+Se añade por el art. 16.2 de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959
+Artículo 129 ter. Cooperativas de vivienda en cesión de uso.
+1. Son cooperativas de viviendas de cesión de uso las que conservan la propiedad en pleno dominio o cualquier otro derecho sobre el suelo y/o la edificación, y procuran a precio de coste a las personas socias usuarias y, en su caso, al resto de miembros de la unidad de convivencia el uso particular de las viviendas como residencia habitual y permanente, el uso de dependencias susceptibles de aprovechamiento particular, junto con el uso compartido de los espacios y dependencias comunes, que deberá ser regulado bien en los estatutos o reglamento.
+Estas cooperativas administran, gestionan, conservan y mejoran el conjunto de la edificación, repercutiendo a las personas socias la parte correspondiente de estos costes. A estos efectos, la cooperativa tiene la consideración de consumidor final. A efectos fiscales estas cooperativas tienen la consideración de cooperativas de consumo.
+2. Las cooperativas de viviendas en cesión de uso han de reunir las siguientes características:
+a) Las personas socias usuarias podrán ser de colectivos específicos (mayores, diversidad funcional, etc.) o generales.
+b) Han de prestar servicios para satisfacer necesidades colectivas.
+c) Deben cumplir los requisitos exigidos para las cooperativas configuradas como las demás entidades sin ánimo de lucro.
+d) El derecho de uso de la persona socia sobre las viviendas o las dependencias susceptibles de aprovechamiento particular se configura como un derecho de naturaleza personal y societaria, no real, y es intransmisible por actos inter vivos o mortis causa, salvo en los supuestos y los procedimientos contemplados en esta ley.
+e) Se entienden por unidades de convivencia las formadas por las personas usuarias adscritas a una vivienda. Al menos una de ellas ha de ser socia usuaria de la cooperativa. Los estatutos o los reglamentos de la cooperativa regularán los derechos y obligaciones de todas las personas usuarias, socias o no. El régimen de derechos y obligaciones, así como las normas de disciplina social contempladas en las normas cooperativas relativos al régimen de uso de las viviendas y el resto de dependencias comunes serán aplicables a todas las personas que conviven en el edificio, tanto a las socias como a los demás miembros de las unidades de convivencia.
+3. Limitaciones de las cooperativas de viviendas en cesión de uso:
+a) No podrán adjudicar a las personas socias la propiedad ni ningún derecho real sobre las viviendas o cualquier dependencia susceptible de aprovechamiento particular.
+b) En caso de disolución, las viviendas y demás dependencias susceptibles de aprovechamiento particular se han de traspasar a otra cooperativa de la misma clase, a las entidades que las agrupen o a otras entidades no lucrativas que tengan por objeto social la vivienda asequible en régimen de cesión de uso, para continuar destinándolas a residencia habitual y permanente de las personas socias y los miembros de su unidad de convivencia, en régimen de cesión de uso.
+c) No se pueden transformar en ningún otro tipo de sociedad, ni en ninguna otra clase de cooperativa. En caso de fusión o de escisión de estas cooperativas, si la cooperativa resultante fuera de otra clase, las viviendas y las otras dependencias susceptibles de aprovechamiento privativo se tienen que traspasar a otra u otras cooperativas o a las entidades que las agrupen de acuerdo con el apartado anterior.
+d) No pueden llevar a cabo la división horizontal del edificio, salvo en los siguientes supuestos:
+Cuando el edificio ya se encuentre sujeto a división horizontal.
+Cuando lo exija una norma legal o reglamentaria.
+Cuando sea imprescindible para la obtención de financiación.
+En ningún caso la división horizontal conllevará la adjudicación a la persona socia de la propiedad ni de ningún derecho real sobre la vivienda ni sobre la finca en su conjunto. Las limitaciones recogidas en este artículo se han de inscribir en el Registro de la Propiedad.
+Se añade por el art. 16.2 de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959

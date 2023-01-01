@@ -1,0 +1,17 @@
+Sección 15.ª De las cooperativas de energía
+Se añade por el art. 16.3 de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959
+Artículo 129 quinquies. Cooperativas de energía.
+1. Son cooperativas de energía las que desarrollan su actividad en el área de la energía, además de poder realizar actividades complementarias y conexas. Esta categoría de cooperativas sirve para vehicular la creación de comunidades energéticas. Para ello deben poder conservar su autonomía respecto de sus propias personas socias y de otros actores habituales en el mercado, que cooperan de otras formas, como, por ejemplo, mediante la inversión.
+2. Pueden estar constituidas por personas, tanto físicas como jurídicas, de ámbito público y privado, que podrán adquirir el tipo de condición de persona socia que le competa, contempladas en cualquier tipo de cooperativas contenidas en esta ley.
+3. Las personas físicas y jurídicas pueden ser titulares de derechos de uso y aprovechamiento de energía u otros bienes inmuebles susceptibles para el desarrollo y despliegue de tecnologías, con derechos que pueden ser cedidos a la cooperativa, en consecuencia, adquirirán la condición de personas socias cedentes a la cooperativa.
+4. Para el cumplimiento de su objeto, las cooperativas de energía podrán desarrollar, entre otras, las siguientes actividades:
+a) La producción y generación de energía con todo tipo de fuentes de energía, tanto destinada al consumo de las personas socias consumidoras como a su comercialización.
+b) El impulso, el diseño, la instalación y la gestión de todo tipo de proyectos, instalaciones dirigidas tanto a la generación como distribución de energía con todo tipo de fuentes, incluidos el ahorro y eficiencia energéticos, servicios de agregación, de gestión de la demanda, otros servicios energéticos, así como en cualquier proyecto de sustitución de fuentes energéticas no renovables, realizado tanto con recursos propios, como ajenos.
+c) La reducción de consumo de energía a través de medidas de eficiencia energética, formación, información y servicios de asesoramiento, así como intervenciones en el ámbito de la rehabilitación parcial, profunda e integral en edificios.
+d) Las acciones necesarias para la reducción de la dependencia energética en materia de movilidad. Analizar la viabilidad de proyectos orientados al uso de vehículos públicos y compartidos. Fomentar puntos de recarga de vehículos eléctricos en la calle. Promover planes y servicios específicos que prioricen el desplazamiento a pie, en bicicleta o medio mecánico sin uso de ningún sistema auxiliar.
+e) El fomento y desarrollo de actividades encaminadas a reducir y minimizar el impacto del consumo energético de las personas socias.
+f) La integración de colectivos vulnerables, basados en los principios cooperativos universales, realizando actuaciones que reduzcan su dependencia energética y mejoren su calidad de vida.
+g) Las acciones de intercooperación, colaboración, intercambio de experiencias, con otras entidades similares, como pueda ser la creación y participación en cooperativas de segundo grado y redes.
+h) La participación en otras sociedades de forma directa o indirecta.
+i) Todas las actividades que la legislación vigente, europea, estatal o autonómica y la que se pueda promulgar en un futuro y que, en su posible evolución futura, reserve a las llamadas "comunidades energéticas".
+Se añade por el art. 16.3 de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959

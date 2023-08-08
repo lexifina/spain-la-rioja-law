@@ -1,0 +1,2 @@
+Disposición adicional vigesimotercera. Adaptación normativa del Reglamento de Agentes Forestales.
+Atendiendo a su naturaleza jurídica y peculiaridades del servicio que prestan, en el plazo máximo de tres meses tras la entrada en vigor del presente texto normativo, se iniciarán los trabajos correspondientes para el proceso de adaptación normativa conforme a la presente ley, respecto del Decreto 23/2009, de 15 de mayo, por el que se aprueba el Reglamento de los Agentes Forestales de la Comunidad Autónoma de La Rioja.

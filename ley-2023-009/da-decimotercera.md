@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Movilidad del personal del Servicio Riojano de Salud y docente no universitario.
+1. El personal estatutario fijo del Servicio Riojano de Salud y personal docente no universitario de la Administración de la Comunidad Autónoma de La Rioja podrá ocupar puestos de la Administración general de la Comunidad Autónoma de La Rioja, de conformidad con lo previsto en las relaciones de puestos de trabajo, siempre que las funciones a desarrollar justifiquen suficientemente tales adscripciones.
+2. El régimen jurídico de aplicación para el personal que ocupe los citados puestos será el propio de la Administración general de la Comunidad Autónoma de La Rioja.

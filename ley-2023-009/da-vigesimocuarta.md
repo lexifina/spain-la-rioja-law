@@ -1,0 +1,3 @@
+Disposición adicional vigesimocuarta. Personal funcionario de carreteras.
+El personal funcionario adscrito a la dirección general competente en materia de carreteras, al que se le atribuyan funciones de explotación de las mismas, tendrá la condición de agente de la autoridad en el ejercicio de sus funciones.
+Por tanto, los hechos constatados por el personal al que se reconoce la condición de autoridad, y que formalicen en acta o documento público, gozarán de presunción de veracidad y tendrán valor probatorio, en cuanto a los hechos consignados en el mismo, sin perjuicio de las demás pruebas que los interesados puedan aportar en defensa de sus respectivos intereses.

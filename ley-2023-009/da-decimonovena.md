@@ -1,0 +1,7 @@
+Disposición adicional decimonovena. Mesas sectoriales.
+1. Para la negociación de las condiciones de trabajo del personal funcionario o estatutario de sus respectivos ámbitos, se constituirán las siguientes mesas sectoriales de negociación:
+a) Del Personal Docente no Universitario, para las cuestiones que deban ser objeto de negociación comprendidas en su propio ámbito competencial.
+b) Del Personal de la Administración de Justicia, para las cuestiones que deban ser objeto de negociación comprendidas en su propio ámbito competencial.
+c) Del Personal Estatutario del Servicio Riojano de Salud, para las cuestiones que deban ser objeto de negociación comprendidas en su propio ámbito competencial.
+d) Del Personal de Servicios Generales, para las cuestiones que deban ser objeto de negociación comprendidas en su propio ámbito competencial.
+2. Además de la representación de la Administración pública de la Comunidad Autónoma de La Rioja, constituirán estas mesas sectoriales de negociación las organizaciones sindicales a las que se refiere el párrafo segundo del artículo 33.1 del texto refundido de la Ley del Estatuto Básico del Empleado Público, cuya representación se distribuirá en función de los resultados obtenidos en las elecciones a los órganos de representación propios del personal en el ámbito específico de la negociación que en cada caso corresponda, considerados a nivel autonómico.

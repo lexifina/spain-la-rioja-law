@@ -1,0 +1,2 @@
+Disposición adicional decimoséptima. Estabilidad en el medio rural.
+Con objeto de propiciar la estabilidad en el empleo público en el medio rural, las administraciones públicas podrán establecer, mediante incentivos administrativos, profesionales o económicos, medidas específicas de apoyo para el personal empleado público que realice su actividad profesional y resida en el medio rural, singularmente en las zonas rurales prioritarias establecidas por la normativa de aplicación.

@@ -20,10 +20,13 @@ f) Definir los criterios de actuación del Servicio Riojano de Salud de acuerdo 
 g) Someter a informe del Consejo de Administración las propuestas que reciba del Gerente sobre la estructura del organismo autónomo, la relación de puestos de trabajo del mismo, y el régimen de funcionamiento de los centros, servicios e instituciones sanitarias dependientes; así como impulsar su posterior tramitación.
 h) Instar las actuaciones necesarias para la ejecución de las decisiones judiciales que afecten al organismo.
 i) Cualquier otra dentro del ámbito del organismo que no haya sido legal o reglamentariamente asignada a otro órgano.
+j) Establecer, actualizar y rescindir los conciertos sanitarios con un valor estimado de hasta 6 millones de euros.
+k) Realizar las funciones inherentes al órgano de contratación en el supuesto de obras de primer establecimiento, reforma o gran reparación, así como en obras de demolición relativas al Servicio Riojano de Salud, cuyo valor estimado en todos los casos sea de hasta 6 millones de euros.
 3. En cuanto Presidente del Consejo de Administración ejercerá las siguientes funciones:
 a) Convocar las reuniones del Consejo de Administración así como presidir y dirigir sus sesiones.
 b) Aprobar el orden del día de las sesiones del Consejo de Administración.
 c) Velar por el cumplimiento de los acuerdos del Consejo de Administración y de las normas que regulen el Servicio Riojano de la Salud.
 d) Adoptar en caso de urgencia las resoluciones necesarias, dando cuenta de aquéllas al Consejo de Administración en la siguiente sesión.
 4. El Presidente del Servicio Riojano de Salud, como tal, podrá delegar el ejercicio de cualquiera de sus competencias, a no ser que expresamente se disponga lo contrario.
+Se añaden las letras j) y k) al apartado 2 por el art. 9.3 de la Ley 13/2023, de 28 de diciembre. Ref. BOE-A-2024-1778
 Se añade por el art. 7 de la Ley 1/2005, de 11 de febrero. Ref. BOE-A-2005-3427

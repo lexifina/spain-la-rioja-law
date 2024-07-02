@@ -1,0 +1,3 @@
+Disposición adicional única. Participación en concursos de méritos y de traslados tras los procesos de estabilización.
+Los adjudicatarios de puestos convocados en la Oferta de Empleo Público extraordinaria de estabilización correspondiente a la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, pertenecientes a la administración y servicios generales de la Comunidad Autónoma de La Rioja, no podrán participar en el siguiente concurso de traslados ni en el siguiente concurso de méritos que se convoquen con posterioridad a la toma de posesión derivada de la citada oferta de empleo público.
+Queda exceptuado de esta medida el personal docente no universitario y el personal estatutario del Servicio Riojano de Salud.

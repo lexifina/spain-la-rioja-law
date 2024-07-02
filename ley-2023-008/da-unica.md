@@ -1,2 +1,3 @@
 Disposición adicional única. Fundaciones e instituciones públicas con competencias en materia de investigación.
-Las fundaciones e instituciones públicas con competencias en materia de investigación se adscribirán a la consejería con competencias en materia de investigación. Dichos organismos deben adaptar sus leyes de creación o estatutos a lo establecido en esta ley en el plazo de un año desde su entrada en vigor.
+(Suprimida)
+Se suprime por el art. 3.9 de la Ley 4/2024, de 1 de julio. Ref. BOE-A-2024-14006

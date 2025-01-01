@@ -3,11 +3,12 @@ Artículo Único.
 a) La homologación se producirá partiendo de la equivalencia entre Presidente y Secretario de Estado, de modo que las retribuciones de aquél se homologarán a las de éste.
 b) La homologación se producirá sumando los distintos conceptos retributivos que se devenguen de acuerdo con lo previsto en la Ley de Presupuestos Generales del Estado excepto el complemento de productividad.
 c) A partir de la homologación anterior, las retribuciones de los demás Altos Cargos se establecerán disminuyendo dicha cifra de acuerdo con los siguientes porcentajes:
-Vicepresidente: 4%.
-Consejero: 8%.
-Viceconsejero: 12%.
-Secretario General Técnico, Director General o Alto Cargo con el mismo rango expresamente reconocido: 16%.
-Subdirector General: 20%
+Vicepresidente: 4 %.
+Consejero: 8 %.
+Viceconsejero: 12 %.
+Secretario General Técnico: 12 %.
+Director General o Alto Cargo con el mismo rango reconocido: 16 %.
+Subdirector General: 20 %.
 d) La cantidad resultante englobará la retribución anual del Alto Cargo sin que pueda generarse otra retribución por cualquier otro concepto, sin perjuicio de lo dispuesto en cuanto las retribuciones por antigüedad en la Ley de Presupuestos Generales de la Comunidad Autónoma de La Rioja para cada ejercicio.
 2. Se autoriza al Parlamento de La Rioja a fijar las retribuciones e indemnizaciones de sus miembros de acuerdo con las siguientes normas:
 a) La asignación retributiva básica del presidente del Parlamento se establecerá disminuyendo la asignación retributiva del presidente del Gobierno de La Rioja en un 28%. La cantidad resultante englobará la indemnización anual por gastos a la que se refiere el apartado d) siguiente.
@@ -19,4 +20,5 @@ d) Los diputados percibirán como máximo una indemnización anual por gastos de
 3.º Presidente comisión y portavoz adjunto 16%.
 4.º Vicepresidente y secretario comisión 15%.
 5.º Diputado 14%.
+Se modifica la letra c) del apartado 1 por el art. 6 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
 Se modifica el apartado 2 por el art. 18 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917

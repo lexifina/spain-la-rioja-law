@@ -1,20 +1,22 @@
 Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente ley y a los Tribunales y Autoridades la hagan cumplir.
 Logroño, 31 de enero de 2023.–La Presidenta, Concepción Andreu Rodríguez.
 ANEXO
-Relación de especies incluidas en el Listado Riojano de Especies Silvestres en Régimen de Protección Especial y, en su caso, en el Catálogo Riojano de Especies Amenazadas
+Relación de especies incluidas en el Registro Riojano de Especies Silvestres en Régimen de Protección Especial y, en su caso, en el Catálogo Riojano de Especies Amenazadas
+Briofitos
+Antocerotas
 Nombre científico | Nombre común | Categoría del catálogo
-Briofitos |  | 
-Antocerotas |  | 
 Anthoceros punctatus. |  | 
-Hepáticas |  | 
+Hepáticas
+Nombre científico | Nombre común | Categoría del catálogo
 Cephaloziella turneri. |  | 
 Diplophyllum taxifolium. |  | 
 Mannia androgyna. |  | 
 Marsupella sphacelata. |  | 
 Myriocoleopsis minutissima. |  | 
 Nardia geoscyphus. |  | 
-Nardia scalaris. |  | 
-Musgos |  | 
+Nardia scalari. |  | 
+Musgos
+Nombre científico | Nombre común | Categoría del catálogo
 Andreaea mutabilis. |  | 
 Andreaea rothii. |  | 
 Andreaea rupestris. |  | 
@@ -43,11 +45,12 @@ Syntrichia latifolia. |  |
 Timmia bavarica. |  | 
 Ulota hutchinsiae. |  | 
 Weissia squarrosa. |  | 
-Flora vascular |  | 
+Flora Vascular
+Nombre científico | Nombre común | Categoría del catálogo
 Aconitum anthora. |  | 
 Adenocarpus hispanicus. |  | 
 Aeluropus littoralis. | Grama de saladar. | 
-Allium lusitanicum (= Alliun senescens subsp. montanum). |  | 
+Allium lusitanicum (=Alliun senescens subsp. montanum). |  | 
 Allium victorialis. | Victorial larga. | 
 Alyssum linifolium. |  | 
 Androsace rioxana. | Androsela riojana. | En peligro de extinción.
@@ -64,13 +67,13 @@ Astragalus austriacus. |  |
 Astragalus nevadensis muticus. |  | 
 Astragalus vesicarius. |  | 
 Athyrium distentifolium. |  | 
-Atropa bella-donna. | Belladona. | 
+Atropa belladonna. | Belladona. | 
 Brimeura amethystina. |  | 
 Carex capillaris. |  | Vulnerable.
 Centaura triumfetti subsp. semidecurrens. |  | 
 Centaurea janeri subsp. babiana. |  | 
 Centaurea linifolia. |  | 
-Chaenorhinum semiglabrum. (= C. segoviense/semiglabrum). |  | 
+Chaenorhinum semiglabrum (= C. segoviense/semiglabrum). |  | 
 Chamaespartium delphinense. |  | Vulnerable.
 Cheilanthes acrostica. |  | 
 Cicerbita plumieri (sinónimo Lactuca plumieri). |  | 
@@ -102,7 +105,6 @@ Hedysarum spinosissimum. |  |
 Huperzia selago. | Selago o musgo derecho. | Vulnerable.
 Hypericum androsaemum. | Androsemo. | 
 Isoetes echinosporum. |  | Vulnerable.
-Jonopsidium savianum. |  | 
 Juncus capitatus. |  | 
 Juncus pygmaeus. |  | 
 Juniperus thurifera. | Sabina albar. | 
@@ -125,7 +127,6 @@ Murbeckiella boryi. |  |
 Myricaria germanica. |  | 
 Narcissus dubius. | Narciso. | 
 Narcissus pseudonarcissus subsp. portensis. |  | 
-Narcissus triandrus. |  | 
 Nepeta beltranii (sinónimo N. hispanica). |  | 
 Nepeta tuberosa. |  | 
 Ononis aragonensis. |  | 
@@ -160,9 +161,7 @@ Sedum cepaea. |  |
 Sedum pedicellatum (incl. Sedum rivasgodayii). |  | 
 Silene rupestris. |  | 
 Silene Sect. Siphonomorpha (incl. S. italica, S. coutinhoi). |  | 
-Spiranthes aestivalis. |  | 
 Streptopus amplexifolius. |  | 
-Thymus loscosii. | Tomillo sanjuanero. | 
 Trichophorum cespitosum. |  | 
 Triglochin palustris. |  | 
 Trisetum loeflingianum (sinónimo T. loeflingiana). |  | 
@@ -174,25 +173,24 @@ Valeriana longiflora. |  |
 Velezia rigida. | Clavelito seco. | 
 Veronica ponae. |  | 
 Vitis vinifera subsp. sylvestris. | Vid silvestre euroasiática. | 
-Insectos |  | 
-Coleópteros |  | 
+Insectos
+Coleópteros
+Nombre científico | Nombre común | Categoría del catálogo
 Ampedus brunnicornis. |  | 
 Bothrideres interstitialis. |  | 
-Cerambyx cerdo. | Capricornio de la encina. | 
 Cerophytum elateroides. |  | 
 Corticeus bicoloroides. |  | 
 Cucujus cinnaberinus. |  | 
 Gnorimus variabilis. |  | 
 Ischnodes sanguinicollis. |  | 
 Limoniscus violaceus. | Escarabajo resorte. | Vulnerable.
-Lucanus cervus. | Ciervo volante. | 
 Necydalis ulmi. |  | 
 Osmoderma eremita. | Escarabajo eremita. | Vulnerable.
 Pedostrangalia revestita. |  | 
 Podeonius acuticornis. |  | 
-Rosalia alpina. | Rosalía. | 
 Stictoleptura erythroptera. |  | 
-Lepidópteros |  | 
+Lepidópteros
+Nombre científico | Nombre común | Categoría del catálogo
 Apatura iris. | Tornasolada mayor. | 
 Artimelia latreillei (antes Ocnogyna latreillei). |  | Vulnerable.
 Aricia morronensis. | Morena española. | 
@@ -203,7 +201,6 @@ Erebia epiphron. | Erebia menor. | En peligro de extinción.
 Erebia lefebvrei. | Erebia azabache. | En peligro de extinción.
 Eriogaster catax. |  | Vulnerable.
 Euchloe tagis. | Blanquiverdosa menor. | 
-Euphydryas aurinia. | Ondas rojas. | 
 Euphydryas desfontainii. | Ondas blancas. | 
 Heterogenea asella. |  | 
 Heteropterus morpheus. | Saltitarina. | 
@@ -217,303 +214,105 @@ Parnassius apollo. | Apolo. | Vulnerable.
 Phengaris arion (antes Maculinea arion). | Hormiguera de lunares. | Vulnerable.
 Polyommatus fabressei. | Rayada ibérica. | 
 Polyommatus fulgens. | Rayada clara. | 
-Proserpinus proserpina. | Esfinge proserpina. | 
 Pyrgus onopordi. | Ajedrezada yunque. | 
 Rhagades predotae. |  | Vulnerable.
-Satyrium w-album. | Rabicorta w-blanca. | 
-Scolitantides orion. | Abencerraje orion. | 
+Satyrium walbum. | Rabicorta w-blanca. | 
+Scolitantides orion. | Abencerraje orión. | 
 Spialia rosae. | Sertorio de los rosales. | 
 Stygia australis. |  | 
 Watsonarctia deserta. |  | 
 Zegris eupheme. | Zegris. | 
 Zerynthia rumina. | Arlequín. | 
-Odonatos |  | 
+Odonatos
+Nombre científico | Nombre común | Categoría del catálogo
 Aeshna juncea. |  | Vulnerable.
 Coenagrion caerulescens. |  | 
 Coenagrion mercuriale. |  | 
-Coenagrion scitulum. |  | 
 Gomphus simillimus. |  | 
 Onychogomphus costae. |  | 
 Orthetrum nitidinerve. |  | 
 Sympetrum flaveolum. |  | 
-Moluscos |  | 
+Moluscos
+Nombre científico | Nombre común | Categoría del catálogo
 Anodonta anatina. |  | 
-Elona quimperiana. |  | 
 Margaritifera auricularia. | Margaritona. | En peligro de extinción.
 Potomida littoralis. |  | 
 Unio mancus (antes U. elongatulus). | Náyade mediterránea. | Vulnerable.
-Vertigo moulinsiana. |  | 
-Crustáceos |  | 
+Crustáceos
+Nombre científico | Nombre común | Categoría del catálogo
 Austropotamobius pallipes. | Cangrejo de río. | En peligro de extinción.
-Peces |  | 
+Peces
+Nombre científico | Nombre común | Categoría del catálogo
 Barbatula quignardi. | Lobo de río. | 
 Barbus haasi. | Barbo de montaña. | 
-Chondrostoma arcasii. | Bermejuela. | 
 Cobitis calderoni. | Lamprehuela. | 
 Cobitis paludica. | Colmilleja. | 
 Parachondrostoma miegii. | Madrilla. | 
 Salaria fluviatilis (= Blennius fluviatilis). | Pez fraile. | En peligro de extinción.
 Squalius laietanus. | Cacho. | 
-Anfibios |  | 
-Alytes obstetricans. | Sapo partero común. | 
+Anfibios
+Nombre científico | Nombre común | Categoría del catálogo
 Bufo spinosus. | Sapo común. | 
 Discoglossus galganoi jeanneae. | Sapillo pintojo ibérico meridional. | En peligro de extinción.
-Epidalea calamita (antes Bufo calamita). | Sapo corredor. | 
-Hyla molleri (antes Hyla arborea). | Ranita de San Antonio. | 
-Lissotriton helveticus (antes Triturus helveticus). | Tritón palmeado. | 
-Pelobates cultripes. | Sapo de espuelas. | 
-Pelodytes punctatus. | Sapillo moteado común. | 
-Triturus marmoratus. | Tritón jaspeado. | 
-Reptiles |  | 
-Acanthodactylus erythrurus. | Lagartija colirroja. | 
-Anguis fragilis. | Lución. | 
-Chalcides bedriagai. | Eslizón ibérico. | 
-Chalcides striatus (antes Chalcides chalcides). | Eslizón tridáctilo ibérico. | 
-Coronella austriaca. | Culebra lisa europea. | 
-Coronella girondica. | Culebra lisa meridional. | 
+Reptiles
+Nombre científico | Nombre común | Categoría del catálogo
 Emys orbicularis. | Galápago europeo. | Vulnerable.
-Lacerta bilineata (= Lacerta viridis bilineata). | Lagarto verde occidental. | 
-Malpolon monspessulanus. | Culebra bastarda. | 
-Mauremys leprosa. | Galápago leproso. | 
-Natrix maura. | Culebra viperina. | 
-Natrix astreptophora (antes Natrix natrix). | Culebra de collar. | 
+Malpolon monspessulanum. | Culebra bastarda. | 
 Podarcis liolepis (antes Podarcis hispanica). | Lagartija ibérica. | 
-Podarcis muralis. | Lagartija roquera. | 
-Psammodromus algirus. | Lagartija colilarga. | 
-Psammodromus hispanicus. | Lagartija cenicienta. | 
-Zamenis scalaris (antes Elaphe scalaris). | Culebra de escalera. | 
-Tarentola mauritanica. | Salamanquesa común. | 
-Timon lepidus. | Lagarto ocelado. | 
-Vipera aspis. | Víbora aspid. | 
+Vipera aspis. | Víbora áspid. | 
 Vipera latastei. | Víbora hocicuda. | Vulnerable.
-Aves |  | 
-Accipiter gentilis. | Azor común. | 
-Accipiter nisus. | Gavilán. | 
-Acrocephalus arundinaceus. | Carricero tordal. | 
-Acrocephalus paludicola. | Carricerín cejudo. | 
-Acrocephalus schoenobaenus. | Carricerín común. | 
-Acrocephalus scirpaceus. | Carricero común. | 
-Actitis hypoleucos. | Andarríos chico. | 
-Aegithalos caudatus. | Mito. | 
+Aves
+Nombre científico | Nombre común | Categoría del catálogo
 Aegypius monachus. | Buitre negro. | Vulnerable.
 Alauda arvensis. | Alondra común. | 
-Alcedo atthis. | Martín pescador. | 
-Anas acuta. | Ánade rabudo. | 
-Anthus campestris. | Bisbita campestre. | 
-Anthus pratensis. | Bisbita común. | 
-Anthus spinoletta. | Bisbita alpino. | 
-Anthus trivialis. | Bisbita arbóreo. | 
-Apus apus. | Vencejo común. | 
-Aquila chrysaetos. | Águila real. | 
 Aquila fasciata. | Águila-azor perdicera. | En peligro de extinción.
 Ardea alba. | Garceta grande. | 
-Ardea cinerea. | Garza real. | 
-Ardea purpurea. | Garza imperial. | 
-Asio flammeus. | Búho campestre. | 
-Asio otus. | Búho chico. | 
-Athene noctua. | Mochuelo europeo. | 
 Aythya fuligula. | Porrón moñudo. | 
 Aythya nyroca. | Porrón pardo. | En peligro de extinción.
 Botaurus stellaris. | Avetoro común. | En peligro de extinción.
-Bubo bubo. | Búho real. | 
-Bubulcus ibis. | Garcilla bueyera. | 
-Burhinus oedicnemus. | Alcaraván común. | 
-Buteo buteo. | Busardo ratonero. | 
-Calandrella brachydactyla. | Terrera común. | 
-Calandrella rufescens. | Terrera marismeña. | 
-Calidris alba. | Correlimos tridáctilo. | 
-Calidris alpina. | Correlimos común. | 
-Calidris canutus. | Correlimos gordo. | 
-Calidris ferruginea. | Correlimos zarapitín. | 
-Calidris minuta. | Correlimos menudo. | 
-Calidris pugnax (antes Philomachus pugnax). | Combatiente. | 
-Caprimulgus europaeus. | Chotacabras europeo. | 
-Caprimulgus ruficollis. | Chotacabras cuellirrojo. | 
 Carduelis carduelis. | Jilguero europeo. | 
-Carduelis citrinella (antes Serinus citrinella). | Verderón serrano. | 
-Cecropis daurica (antes Hirundo daurica). | Golondrina dáurica. | 
-Certhia brachydactyla. | Agateador común. | 
-Certhia familiaris. | Agateador euroasiático. | 
-Cettia cetti. | Cetia ruiseñor. | 
-Charadrius dubius. | Chorlitejo chico. | 
-Charadrius hiaticula. | Chorlitjo grande. | 
 Charadrius morinellus. | Chorlito carambolo. | Vulnerable.
-Chlidonias hybrida. | Fumarel cariblanco. | 
 Chlidonias niger. | Fumarel común. | En peligro de extinción.
 Ciconia nigra. | Cigüeña negra. | Vulnerable.
-Cinclus cinclus. | Mirlo acuático europeo. | 
-Circaetus gallicus. | Culebrera europea. | 
-Circus aeruginosus. | Aguilucho europeo occidental. | 
-Circus cyaneus. | Aguilucho pálido. | 
 Circus pygargus. | Aguilucho cenizo. | Vulnerable.
-Cisticola juncidis. | Buitrón. | 
-Clamator glandarius. | Críalo europeo. | 
-Coccothraustes coccothraustes. | Picogordo común. | 
-Coracias garrulus. | Carraca europea. | 
 Corvus corax. | Cuervo grande. | 
 Corvus monedula. | Grajilla occidental. | 
-Cuculus canorus. | Cuco común. | 
-Cyanistes caeruleus. | Herrerillo común. | 
-Delichon urbicum. | Avión común. | 
-Dendrocopos major. | Pico picapinos. | 
-Dendrocopos minor. | Pico menor. | 
-Dryocopus martius. | Pito negro. | 
-Egretta garzetta. | Garceta común. | 
-Elanus caeruleus. | Elanio común. | 
 Emberiza calandra. | Triguero. | 
-Emberiza cia. | Escribano montesino. | 
-Emberiza cirlus. | Escribano soteño. | 
-Emberiza citrinella. | Escribano cerillo. | 
-Emberiza hortulana. | Escribano hortelano. | 
-Emberiza schoeniclus schoeniclus. | Escribano palustre. | 
 Emberiza schoeniclus whiterby. | Escribano palustre. | En peligro de extinción.
-Erithacus rubecula. | Petirrojo europeo. | 
-Falco columbarius. | Esmerejón. | 
 Falco naumanni. | Cernícalo primilla. | Vulnerable.
-Falco peregrinus. | Halcón peregrino. | 
-Falco subbuteo. | Alcotán europeo. | 
-Falco tinnunculus. | Cernícalo vulgar. | 
-Ficedula hypoleuca. | Papamoscas cerrojillo. | 
-Fringilla montifringilla. | Pinzón real. | 
-Galerida cristata. | Cogujada común. | 
-Galerida theklae. | Cogujada montesina. | 
 Gallinago gallinago. | Agachadiza común. | 
 Gallinula chloropus. | Gallineta común. | 
 Garrulus glandarius. | Arrendajo euroasiático. | 
-Grus grus. | Grulla común. | 
 Gypaetus barbatus. | Quebrantahuesos. | En peligro de extinción.
-Gyps fulvus. | Buitre leonado. | 
-Hieraaetus pennatus. | Aguililla calzada. | 
-Himantopus himantopus. | Cigüeñuela común. | 
-Hippolais polyglotta. | Zarcero políglota. | 
-Hirundo rustica. | Golondrina común. | 
-Hydrocoloeus minutus. | Gaviota enana. | 
-Iduna opaca (antes Hippolais pallida). | Zarcero bereber. | 
-Ixobrychus minutus. | Avetorillo común. | 
-Jynx torquilla. | Torcecuello euroasiático. | 
-Lanius collurio. | Alcaudón dorsirrojo. | 
-Lanius meridionalis. | Alcaudón real. | 
-Lanius senator. | Alcaudón común. | 
 Larus fuscus. | Gaviota sombría. | 
 Larus michahellis. | Gaviota patiamarilla. | 
-Limosa limosa. | Aguja colinegra. | 
 Linaria cannabina. | Pardillo común. | 
-Locustella naevia. | Buscarla pintoja. | 
-Lophophanes cristatus. | Herrerillo capuchino. | 
-Loxia curvirostra. | Piquituerto común. | 
-Lullula arborea. | Alondra totovía. | 
-Luscinia megarhynchos. | Ruiseñor común. | 
-Luscinia svecica. | Pechiazul. | 
 Lymnocriptes minimus. | Agachadiza chica. | 
-Melanocorypha calandra. | Calandria común. | 
-Merops apiaster. | Abejaruco. | 
-Milvus migrans. | Milano negro. | 
 Milvus milvus. | Milano real. | En peligro de extinción.
-Monticola solitarius. | Roquero solitario. | 
-Montifringilla nivalis. | Gorrión alpino. | 
-Motacilla alba. | Lavandera blanca. | 
-Motacilla cinerea. | Lavandera cascadeña. | 
-Motacilla flava. | Lavandera boyera. | 
-Muscicapa striata. | Papamoscas gris. | 
 Neophron percnopterus. | Alimoche común. | Vulnerable.
 Netta rufina. | Pato colorado. | 
-Numenius arquata. | Zarapito real. | 
-Numenius phaeopus. | Zarapito trinador. | 
-Nycticorax nycticorax. | Martinete común. | 
-Oenanthe hispanica. | Collalba rubia. | 
-Oenanthe leucura. | Collalba negra. | 
-Oenanthe oenanthe. | Collalba gris. | 
-Oriolus oriolus. | Oropéndola europea. | 
-Otis tarda. | Avutarda común. | 
-Otus scops. | Autillo europeo. | 
 Pandion haliaetus. | Águila pescadora. | Vulnerable.
-Panurus biarmicus. | Bigotudo. | 
-Parus major. | Carbonero común. | 
 Passer montanus. | Gorrión molinero. | 
 Perdix perdix hispaniensis. | Perdiz pardilla. | En peligro de extinción.
-Periparus ater. | Carbonero garrapinos. | 
-Pernis apivorus. | Abejero europeo. | 
-Petronia petronia. | Gorrión chillón. | 
-Phoenicopterus roseus. | Flamenco común. | 
-Phoenicurus ochruros. | Colirrojo tizón. | 
 Phoenicurus phoenicurus. | Colirrojo real. | Vulnerable.
-Phylloscopus bonelli. | Mosquitero papialbo. | 
-Phylloscopus collybita. | Mosquitero común. | 
-Phylloscopus ibericus. | Mosquitero ibérico. | 
-Phylloscopus trochilus. | Mosquitero musical. | 
-Picus sharpei. | Pito real ibérico. | 
-Platalea leucorodia. | Espátula común. | 
-Plegadis falcinellus. | Morito común. | 
-Pluvialis apricaria. | Chorlito dorado común. | 
-Pluvialis squatarola. | Chorlito gris. | 
-Podiceps cristatus. | Somormujo lavanco. | 
-Podiceps nigricollis. | Zampullín cuellinegro. | 
-Poecile palustris. | Carbonero palustre. | 
-Porphyrio porphyrio. | Calamón común. | 
-Porzana porzana. | Polluela pintoja. | 
-Porzana pusilla. | Polluela chica. | 
-Prunella collaris. | Acentor alpino. | 
-Prunella modularis. | Acentor común. | 
 Pterocles alchata. | Ganga ibérica. | En peligro de extinción.
 Pterocles orientalis. | Ganga ortega. | En peligro de extinción.
-Ptyonoprogne rupestris. | Avión roquero. | 
-Pyrrhocorax pyrrhocorax. | Chova piquirroja. | 
-Pyrrhula pyrrhula. | Camachuelo común. | 
 Rallus aquaticus. | Rascón europeo. | 
-Recurvirostra avosetta. | Avoceta común. | 
-Regulus ignicapilla. | Reyezuelo listado. | 
-Regulus regulus. | Reyezuelo sencillo. | 
-Remiz pendulinus. | Pájaro moscón. | 
-Riparia riparia. | Avión zapador. | 
-Saxicola rubetra. | Tarabilla norteña. | 
-Saxicola rubicola. | Tarabilla común. | 
 Serinus serinus. | Serín verdecillo. | 
-Sitta europaea. | Trepador azul. | 
 Spatula querquedula (antes Anas querquedula). | Cerceta carretona. | 
-Spinus spinus (antes Carduelis spinus). | Lúgano. | 
-Sterna hirundo. | Charrán común. | 
 Streptopelia turtur. | Tórtola europea. | 
-Strix aluco. | Cárabo común. | 
-Sylvia atricapilla. | Curruca capirotada. | 
-Sylvia borin. | Curruca mosquitera. | 
-Sylvia cantillans. | Curruca carrasqueña. | 
-Sylvia communis. | Curruca zarcera. | 
-Sylvia conspicillata. | Curruca tomillera. | 
-Sylvia hortensis. | Curruca mirlona. | 
-Sylvia melanocephala. | Curruca cabecinegra. | 
-Sylvia undata. | Curruca rabilarga. | 
-Tachybaptus ruficollis. | Zampullín común. | 
-Tachymarptis melba (antes Apus melba). | Vencejo real. | 
-Tadorna tadorna. | Tarro blanco. | 
 Tetrax tetrax. | Sisón común. | En peligro de extinción.
-Tichodroma muraria. | Treparriscos. | 
-Tringa erythropus. | Archibebe oscuro. | 
-Tringa glareola. | Andarríos bastardo. | 
-Tringa nebularia. | Archibebe claro. | 
-Tringa ochropus. | Andarríos grande. | 
-Tringa totanus. | Archibebe común. | 
-Troglodytes troglodytes. | Chochín común. | 
-Turdus torquatus. | Mirlo capiblanco. | 
-Tyto alba. | Lechuza común. | 
-Upupa epops. | Abubilla. | 
-Mamíferos |  | 
+Mamíferos
+Nombre científico | Nombre común | Categoría del catálogo
 Apodemus flavicollis. | Ratón leonado. | 
 Arvicola sapidus. | Rata de agua. | 
-Barbastella barbastellus. | Murciélago de bosque. | 
-Canis lupus. | Lobo. | 
-Castor fiber. | Castor europeo. | 
 Chionomys nivalis. | Topillo nival. | 
-Eptesicus serotinus. | Murciélago hortelano. | 
 Erinaceus europaeus. | Erizo europeo occidental. | 
-Felis silvestris. | Gato montés. | 
 Galemys pyrenaicus. | Desmán ibérico. | En peligro de extinción.
 Genetta genetta. | Gineta. | 
 Glis glis. | Lirón gris. | 
-Hypsugo savii. | Murciélago montañero. | 
-Lutra lutra. | Nutria. | 
 Microtus gerbei. | Topillo pirenaico. | 
 Miniopterus schreibersii. | Murciélago de cueva. | Vulnerable.
-Mustela erminea. | Armiño. | 
 Mustela lutreola. | Visón europeo. | En peligro de extinción.
 Mustela putorius. | Turón. | 
 Myodes glareolus. | Topillo rojo. | 
@@ -521,27 +320,18 @@ Myotis alcathoe. | Murciélago ratonero bigotudo pequeño. | Vulnerable.
 Myotis bechsteinii. | Murciélago ratonero forestal. | Vulnerable.
 Myotis blythii. | Murciélago ratonero mediano. | Vulnerable.
 Myotis crypticus. | Murciélago ratonero críptico. | 
-Myotis daubentonii. | Murciélago ribereño. | 
 Myotis emarginatus. | Murciélago ratonero pardo. | Vulnerable.
 Myotis myotis. | Murciélago ratonero grande. | Vulnerable.
 Myotis mystacinus. | Murciélago ratonero bigotudo. | Vulnerable.
-Myotis escalerai. | Murciélago ratonero ibérico. | 
 Neomys anomalus. | Musgaño de Cabrera. | 
 Neomys fodiens. | Musgaño patiblanco. | 
 Nyctalus lasiopterus. | Nóctulo gigante. | Vulnerable.
-Nyctalus leisleri. | Nóctulo pequeño. | 
 Nyctalus noctula. | Nóctulo común. | Vulnerable.
-Pipistrellus kuhlii. | Murciélago de borde claro. | 
-Pipistrellus pipistrellus. | Murciélago común. | 
-Pipistrellus pygmaeus. | Murciélago de Cabrera. | 
-Plecotus auritus. | Murciélago orejudo dorado. | 
-Plecotus austriacus. | Murciélago orejudo gris. | 
 Rhinolophus euryale. | Murciélago mediterráneo de herradura. | Vulnerable.
 Rhinolophus ferrumequinum. | Murciélago grande de herradura. | Vulnerable.
-Rhinolophus hipposideros. | Murciélago pequeño de herradura. | 
 Sorex coronatus. | Musaraña tricolor. | 
 Sorex minutus. | Musaraña enana. | 
 Suncus etruscus. | Musarañita. | 
-Tadarida teniotis. | Murciélago rabudo. | 
 Vespertilio murinus. | Murciélago bicolor. | 
 Téngase en cuenta que este anexo puede ser modificado por la persona titular de la consejería competente en materia de medioambiente, mediante orden publicada únicamente en el Boletín Oficial de la Rioja, según establece la disposición final 6.2
+Se modifica por el art. único.27 de la Ley 2/2025, de 23 de mayo. Ref. BOE-A-2025-11007

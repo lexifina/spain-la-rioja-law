@@ -1,0 +1,5 @@
+Artículo 33 bis. Resolución de inicio.
+1. El procedimiento para la elaboración de las leyes se iniciará siempre mediante resolución de la persona titular de la consejería competente por razón de la materia.
+2. El procedimiento para la elaboración de los reglamentos podrá iniciarse en cualquier caso mediante resolución de la persona titular de la consejería competente por razón de la materia. También podrá iniciarse mediante resolución de la persona titular de la dirección general competente por razón de la materia o, en el caso de que la norma afecte a competencias de varias direcciones generales, de la persona titular de su secretaría general técnica.
+3. La resolución de inicio expresará sucintamente el objeto y finalidad de la norma, las normas legales que, en su caso, deba desarrollar, así como el fundamento jurídico relativo a la competencia ejercida. La resolución podrá señalar la unidad administrativa a la que se encomiende la elaboración del borrador o constituir un grupo de trabajo con ese fin, designando a los miembros que lo integrarán.
+Se añade por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3

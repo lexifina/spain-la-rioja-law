@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Mientras no entren en vigor las Directrices para la elaboración de la MAIN, las memorias que acompañan a los proyectos normativos se regirán por el régimen previsto anteriormente en la Ley 4/2005, de 1 de junio, de funcionamiento y régimen jurídico de la Administración de la Comunidad Autónoma de La Rioja, y la Ley 5/2014, de 20 de octubre, de administración electrónica y simplificación administrativa.

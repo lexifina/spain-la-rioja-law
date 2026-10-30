@@ -1,0 +1,11 @@
+{
+  "path": "es-ri",
+  "code": "ES-RI",
+  "name": "La Rioja",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-la-rioja-law",
+  "build": "built: statute of autonomy and laws (139 norms, 516 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}

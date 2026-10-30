@@ -1,0 +1,4213 @@
+{
+ "country": "ES-RI",
+ "acts": [
+  {
+   "slug": "estatuto-de-autonomia",
+   "short": "Ley Orgánica 3/1982, de 9 de junio",
+   "title": "Ley Orgánica 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-15030",
+   "versions": [
+    {
+     "from": "1982-07-09",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-15030",
+     "sha256": "c3b3fe785612ed47d4beb4736c5303ac0f609f6ae609d167404de2017cdccf14"
+    },
+    {
+     "from": "1994-04-14",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-15030",
+     "sha256": "c3b3fe785612ed47d4beb4736c5303ac0f609f6ae609d167404de2017cdccf14"
+    },
+    {
+     "from": "1997-08-06",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-15030",
+     "sha256": "c3b3fe785612ed47d4beb4736c5303ac0f609f6ae609d167404de2017cdccf14"
+    },
+    {
+     "from": "1999-01-28",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-15030",
+     "sha256": "c3b3fe785612ed47d4beb4736c5303ac0f609f6ae609d167404de2017cdccf14"
+    },
+    {
+     "from": "2002-07-03",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-15030",
+     "sha256": "c3b3fe785612ed47d4beb4736c5303ac0f609f6ae609d167404de2017cdccf14"
+    },
+    {
+     "from": "2010-07-18",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-15030",
+     "sha256": "c3b3fe785612ed47d4beb4736c5303ac0f609f6ae609d167404de2017cdccf14"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-003",
+   "short": "Ley 3/1985, de 20 de mayo",
+   "title": "Ley 3/1985, de 20 de mayo, sobre iniciativa legislativa del pueblo riojano.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-18027",
+   "versions": [
+    {
+     "from": "1985-05-30",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18027",
+     "sha256": "445cf7ddd740a79f82e35f50b0dae6699c976b412b546f6a31c2af46cadf2dac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-004",
+   "short": "Ley 4/1985, de 31 de mayo",
+   "title": "Ley 4/1985, de 31 de mayo, reguladora de signos de la identidad riojana.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-18485",
+   "versions": [
+    {
+     "from": "1985-08-27",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18485",
+     "sha256": "d1f0db655b684186220bdd2c9da0631b8501219e6fb2d71a42e0a5aab0fef63e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1987-002",
+   "short": "Ley 2/1987, de 9 de febrero",
+   "title": "Ley 2/1987, de 9 de febrero, de Salud Escolar.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-5481",
+   "versions": [
+    {
+     "from": "1987-02-25",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-5481",
+     "sha256": "a9761318c4d851f6e5f744bec15f0afda02643e1b9aa39176fe49047470d53f7"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-5481",
+     "sha256": "a9761318c4d851f6e5f744bec15f0afda02643e1b9aa39176fe49047470d53f7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-006",
+   "short": "Ley 6/1989, de 27 de diciembre",
+   "title": "Ley 6/1989, de 27 de diciembre, por el que se fija la capitalidad de los Partidos Judiciales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-1720",
+   "versions": [
+    {
+     "from": "1990-01-14",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-1720",
+     "sha256": "16cd1cb7b1337371ff78067ef55b5a4ae71aa950f5f16760e58f6f1df2e82ea6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-004",
+   "short": "Ley 4/1990, de 29 de junio",
+   "title": "Ley 4/1990, de 29 de junio, de Bibliotecas de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-21734",
+   "versions": [
+    {
+     "from": "1990-09-01",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-21734",
+     "sha256": "ddcfce37106ccdd876ba8ebf8acd58e91c33a8f5e7be302f27d0a6882dcfad77"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-002",
+   "short": "Ley 2/1991, de 7 de marzo",
+   "title": "Ley 2/1991, de 7 de marzo, de Carreteras de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-10293",
+   "versions": [
+    {
+     "from": "1991-04-17",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10293",
+     "sha256": "885e1bd6659d74d8bcad906271967f7b83593c1c8e3b254b18f57d6e29c049c3"
+    },
+    {
+     "from": "2010-05-08",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10293",
+     "sha256": "885e1bd6659d74d8bcad906271967f7b83593c1c8e3b254b18f57d6e29c049c3"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10293",
+     "sha256": "885e1bd6659d74d8bcad906271967f7b83593c1c8e3b254b18f57d6e29c049c3"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10293",
+     "sha256": "885e1bd6659d74d8bcad906271967f7b83593c1c8e3b254b18f57d6e29c049c3"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10293",
+     "sha256": "885e1bd6659d74d8bcad906271967f7b83593c1c8e3b254b18f57d6e29c049c3"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10293",
+     "sha256": "885e1bd6659d74d8bcad906271967f7b83593c1c8e3b254b18f57d6e29c049c3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-003",
+   "short": "Ley 3/1991, de 21 de marzo",
+   "title": "Ley 3/1991, de 21 de marzo, de Elecciones a la Diputación General de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-7743",
+   "versions": [
+    {
+     "from": "1991-03-24",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-7743",
+     "sha256": "38aff3c7838463a88e378fdbe4d1555b0ed459e54e0735927b745f41ce3422ba"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-002",
+   "short": "Ley 2/1994, de 24 de mayo",
+   "title": "Ley 2/1994, de 24 de mayo, de Artesanía.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-13735",
+   "versions": [
+    {
+     "from": "1994-06-17",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-13735",
+     "sha256": "02b18466f1a8848d9518c4de4fde7f7f0483976a0f6bf8b100a44f01f1e5e89a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-004",
+   "short": "Ley 4/1994, de 24 de mayo",
+   "title": "Ley 4/1994, de 24 de mayo, de Archivos y Patrimonio Documental de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-13807",
+   "versions": [
+    {
+     "from": "1994-06-17",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-13807",
+     "sha256": "397eb0c26795ebd0f42c4c730980d11250727ffeb4d8928aaa7fa757fb7a8da2"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-13807",
+     "sha256": "397eb0c26795ebd0f42c4c730980d11250727ffeb4d8928aaa7fa757fb7a8da2"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-13807",
+     "sha256": "397eb0c26795ebd0f42c4c730980d11250727ffeb4d8928aaa7fa757fb7a8da2"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-13807",
+     "sha256": "397eb0c26795ebd0f42c4c730980d11250727ffeb4d8928aaa7fa757fb7a8da2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-009",
+   "short": "Ley 9/1994, de 30 de noviembre",
+   "title": "Ley 9/1994, de 30 de noviembre, de designación de Senadores en representación de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-28765",
+   "versions": [
+    {
+     "from": "1994-12-04",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-28765",
+     "sha256": "578243816e19fac8b216a429e8a122edf3016119c515d9f1386278cd5d03db6e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1995-002",
+   "short": "Ley 2/1995, de 10 de febrero",
+   "title": "Ley 2/1995, de 10 de febrero, de Protección y Desarrollo del Patrimonio Forestal de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-6498",
+   "versions": [
+    {
+     "from": "1995-03-16",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2000-12-31",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    },
+    {
+     "from": "2023-02-28",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6498",
+     "sha256": "52b04f4d6debe1b804f7b888ed8ba99fdd796f1882db5261de092f4ee8f30557"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1995-004",
+   "short": "Ley 4/1995, de 20 de marzo",
+   "title": "Ley 4/1995, de 20 de marzo, de Creación del Parque Natural de la Sierra de Cebollera.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-12101",
+   "versions": [
+    {
+     "from": "1995-03-29",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-12101",
+     "sha256": "2259d92621cb89ab37ed5b8e680908b40d4fb3f4cafaf39b2a8e15d745909eac"
+    },
+    {
+     "from": "2003-04-02",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-12101",
+     "sha256": "2259d92621cb89ab37ed5b8e680908b40d4fb3f4cafaf39b2a8e15d745909eac"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-12101",
+     "sha256": "2259d92621cb89ab37ed5b8e680908b40d4fb3f4cafaf39b2a8e15d745909eac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-001",
+   "short": "Ley 1/1997, de 31 de marzo",
+   "title": "Ley 1/1997, de 31 de marzo, de Saneamiento de las Haciendas Locales de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-7803",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-7803",
+     "sha256": "0cd5175974e9b5d8f29b4ce1acbfe77a70eafbd09c533797f73bf9061f7c5d0d"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-7803",
+     "sha256": "0cd5175974e9b5d8f29b4ce1acbfe77a70eafbd09c533797f73bf9061f7c5d0d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-002",
+   "short": "Ley 2/1997, de 31 de marzo",
+   "title": "Ley 2/1997, de 31 de marzo, de creación del Colegio Oficial de Podólogos de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-7804",
+   "versions": [
+    {
+     "from": "1997-04-13",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-7804",
+     "sha256": "8f166d9f0eb86de405ea571ad238818eb19af716b20718af291213b7ae648214"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-006",
+   "short": "Ley 6/1997, de 18 de julio",
+   "title": "Ley 6/1997, de 18 de julio, reguladora del Consejo Económico y Social de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-21529",
+   "versions": [
+    {
+     "from": "1997-09-07",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21529",
+     "sha256": "b5ab5d971da781869c214b022bd6e42c9e45a6c99d24df7d8083f53caf74375b"
+    },
+    {
+     "from": "2005-10-26",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21529",
+     "sha256": "b5ab5d971da781869c214b022bd6e42c9e45a6c99d24df7d8083f53caf74375b"
+    },
+    {
+     "from": "2012-07-24",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21529",
+     "sha256": "b5ab5d971da781869c214b022bd6e42c9e45a6c99d24df7d8083f53caf74375b"
+    },
+    {
+     "from": "2022-03-31",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21529",
+     "sha256": "b5ab5d971da781869c214b022bd6e42c9e45a6c99d24df7d8083f53caf74375b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-007",
+   "short": "Ley 7/1997, de 3 de octubre",
+   "title": "Ley 7/1997, de 3 de octubre, de creación de la Agencia de Desarrollo Económico de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-22317",
+   "versions": [
+    {
+     "from": "1997-10-10",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2019-04-09",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-22317",
+     "sha256": "9b329cc5c8f8844b01fa06eb82a378c0495c9c06d33dac3a7a0b4ea494617c1a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-007",
+   "short": "Ley 7/1998, de 6 de mayo",
+   "title": "Ley 7/1998, de 6 de mayo, del Voluntariado.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-12162",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-12162",
+     "sha256": "c2521011ad3d47a67e10d21bafaca35d4bb498c1d3c45cb0b928e1b709442d93"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-002",
+   "short": "Ley 2/1999, de 8 de marzo",
+   "title": "Ley 2/1999, de 8 de marzo, de creación del Colegio Profesional de Protésicos Dentales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-6667",
+   "versions": [
+    {
+     "from": "1999-03-12",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-6667",
+     "sha256": "66688dbd1bcceb6ee8f958c5254cd7a61d8fd1a2ad73023d5c12e0e4a433fb03"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-6667",
+     "sha256": "66688dbd1bcceb6ee8f958c5254cd7a61d8fd1a2ad73023d5c12e0e4a433fb03"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-004",
+   "short": "Ley 4/1999, de 31 de marzo",
+   "title": "Ley 4/1999, de 31 de marzo, de Colegios Profesionales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-8723",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-8723",
+     "sha256": "012f1736b937ee44e6b1b15f99f491436604cd5b7c37f8ace800cdede0e2f395"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-8723",
+     "sha256": "012f1736b937ee44e6b1b15f99f491436604cd5b7c37f8ace800cdede0e2f395"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-8723",
+     "sha256": "012f1736b937ee44e6b1b15f99f491436604cd5b7c37f8ace800cdede0e2f395"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-8723",
+     "sha256": "012f1736b937ee44e6b1b15f99f491436604cd5b7c37f8ace800cdede0e2f395"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-003",
+   "short": "Ley 3/2000, de 19 de junio",
+   "title": "Ley 3/2000, de 19 de junio, de Desarrollo Rural de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-13063",
+   "versions": [
+    {
+     "from": "2000-06-23",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-13063",
+     "sha256": "65b325da2f1cd363180ca7a2d2acc300ff0565a98a411b3341cfaea39e54bea4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-005",
+   "short": "Ley 5/2000, de 25 de octubre",
+   "title": "Ley 5/2000, de 25 de octubre, de Saneamiento y Depuración de Aguas Residuales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-20554",
+   "versions": [
+    {
+     "from": "2000-11-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2010-10-26",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 68,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-20554",
+     "sha256": "3af0efb5f4014c1204110702585d3a53fb4fe0b6e8f07a73b002ee1d6db893c9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-004",
+   "short": "Ley 4/2000, de 25 de octubre",
+   "title": "Ley 4/2000, de 25 de octubre, de Espectáculos Públicos y Actividades Recreativas de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-21563",
+   "versions": [
+    {
+     "from": "2001-02-18",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-21563",
+     "sha256": "b03cc101ada7f1b5fa3f273f1ad5e0b0a7b63dca8aa43347e35a0e884ab7a0c5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-001",
+   "short": "Ley 1/2001, de 16 de marzo",
+   "title": "Ley 1/2001, de 16 de marzo, reguladora de los Honores, Distinciones y Protocolo de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-6588",
+   "versions": [
+    {
+     "from": "2001-03-23",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-6588",
+     "sha256": "db8a2d191283146fba2a0f65bd090e7ae82bea685ba159dae5980c9cdd5eee49"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-6588",
+     "sha256": "db8a2d191283146fba2a0f65bd090e7ae82bea685ba159dae5980c9cdd5eee49"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-002",
+   "short": "Ley 2/2001, de 31 de mayo",
+   "title": "Ley 2/2001, de 31 de mayo, de Turismo de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11814",
+   "versions": [
+    {
+     "from": "2001-06-22",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11814",
+     "sha256": "4e563b5f3c0d10e2b926a234b0c9e2c62891f1976324fe37bfa8a90eb1029770"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-003",
+   "short": "Ley 3/2001, de 31 de mayo",
+   "title": "Ley 3/2001, de 31 de mayo, del Consejo Consultivo de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11815",
+   "versions": [
+    {
+     "from": "2001-06-22",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11815",
+     "sha256": "e2881afb34bd48e7d18e57f8ff4e43a950819743cc72adf010898f904552200e"
+    },
+    {
+     "from": "2005-09-07",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11815",
+     "sha256": "e2881afb34bd48e7d18e57f8ff4e43a950819743cc72adf010898f904552200e"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11815",
+     "sha256": "e2881afb34bd48e7d18e57f8ff4e43a950819743cc72adf010898f904552200e"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11815",
+     "sha256": "e2881afb34bd48e7d18e57f8ff4e43a950819743cc72adf010898f904552200e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-004",
+   "short": "Ley 4/2001, de 2 de julio",
+   "title": "Ley 4/2001, de 2 de julio, de Cooperativas de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-13944",
+   "versions": [
+    {
+     "from": "2001-09-10",
+     "units": 161,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 162,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 162,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 162,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 162,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 162,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2019-03-07",
+     "units": 163,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13944",
+     "sha256": "17af1f6e954cb81da0885e7c3e38f90da78e7874e6502bf6f35bc059118ca368"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-005",
+   "short": "Ley 5/2001, de 17 de octubre",
+   "title": "Ley 5/2001, de 17 de octubre, sobre drogodependencias y otras adicciones.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-20624",
+   "versions": [
+    {
+     "from": "2001-11-12",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-20624",
+     "sha256": "8427e5cb889492b71b046899ff49d1578aae7f2087a3102783fda9cf9ca0ee73"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-20624",
+     "sha256": "8427e5cb889492b71b046899ff49d1578aae7f2087a3102783fda9cf9ca0ee73"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-20624",
+     "sha256": "8427e5cb889492b71b046899ff49d1578aae7f2087a3102783fda9cf9ca0ee73"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-002",
+   "short": "Ley 2/2002, de 17 de abril",
+   "title": "Ley 2/2002, de 17 de abril, de Salud.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8489",
+   "versions": [
+    {
+     "from": "2002-04-23",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2005-02-12",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2005-10-07",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2006-09-09",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 139,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 139,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 139,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-8489",
+     "sha256": "423fd83422c94e1e907466e85fe5f5cc30de9ef4d45ba29211867ba1e3a8b297"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-004",
+   "short": "Ley 4/2002, de 1 de julio",
+   "title": "Ley 4/2002, de 1 de julio, de Cooperación para el Desarrollo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-14082",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14082",
+     "sha256": "877f2b93c5aadf3ffa84f9ccaf9493ad0bb0e2ffa4a2b1328c848349906576d6"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14082",
+     "sha256": "877f2b93c5aadf3ffa84f9ccaf9493ad0bb0e2ffa4a2b1328c848349906576d6"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14082",
+     "sha256": "877f2b93c5aadf3ffa84f9ccaf9493ad0bb0e2ffa4a2b1328c848349906576d6"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14082",
+     "sha256": "877f2b93c5aadf3ffa84f9ccaf9493ad0bb0e2ffa4a2b1328c848349906576d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-007",
+   "short": "Ley 7/2002, de 18 de octubre",
+   "title": "Ley 7/2002, de 18 de octubre, de Sanidad Animal de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-21675",
+   "versions": [
+    {
+     "from": "2002-11-01",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-21675",
+     "sha256": "e536d1199bf6c798c72e6ace5a1c8f4c036d9c6b292c53db1036dd5d0e99f838"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-21675",
+     "sha256": "e536d1199bf6c798c72e6ace5a1c8f4c036d9c6b292c53db1036dd5d0e99f838"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-21675",
+     "sha256": "e536d1199bf6c798c72e6ace5a1c8f4c036d9c6b292c53db1036dd5d0e99f838"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-001",
+   "short": "Ley 1/2003, de 3 de marzo",
+   "title": "Ley 1/2003, de 3 de marzo, de la Administración Local de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-5909",
+   "versions": [
+    {
+     "from": "2003-06-11",
+     "units": 256,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 256,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 256,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 257,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 257,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    },
+    {
+     "from": "2023-01-20",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-5909",
+     "sha256": "7a04c39878c3a66744e7577dac87ee55db34152e7c5ea035228f0f6f6f45545a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-003",
+   "short": "Ley 3/2003, de 3 de marzo",
+   "title": "Ley 3/2003, de 3 de marzo, de Organización del Sector Público de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-6052",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2005-09-07",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2005-12-25",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-6052",
+     "sha256": "5ec20f530a885e9ae0c9d4104edeb66a96c450ed5d8d059dd4c017279e4b0faf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-005",
+   "short": "Ley 5/2003, de 26 de marzo",
+   "title": "Ley 5/2003, de 26 de marzo, reguladora de La Red de Itinerarios Verdes de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7529",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7529",
+     "sha256": "622225ef497b9927af339b2f5dcf4dc2d6a14dff8a64e99560d68a1864f881e9"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7529",
+     "sha256": "622225ef497b9927af339b2f5dcf4dc2d6a14dff8a64e99560d68a1864f881e9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-006",
+   "short": "Ley 6/2003, de 26 de marzo",
+   "title": "Ley 6/2003, de 26 de marzo, del Consejo Social de la Universidad de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7530",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7530",
+     "sha256": "3edec870f4e6db088538ed3efba097026d05c0f9e9a9b8b6e6e908a2607bc6db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-007",
+   "short": "Ley 7/2003, de 26 de marzo",
+   "title": "Ley 7/2003, de 26 de marzo, de Inserción Sociolaboral.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7531",
+   "versions": [
+    {
+     "from": "2003-05-03",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7531",
+     "sha256": "7565a8bf7e47f5b75519d2e6263883ed1406b421ca0e980a8d0873e2ef57809b"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7531",
+     "sha256": "7565a8bf7e47f5b75519d2e6263883ed1406b421ca0e980a8d0873e2ef57809b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-008",
+   "short": "Ley 8/2003, de 28 de octubre",
+   "title": "Ley 8/2003, de 28 de octubre, del Gobierno e Incompatibilidades de sus miembros.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21619",
+   "versions": [
+    {
+     "from": "2003-12-03",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    },
+    {
+     "from": "2012-10-04",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-21619",
+     "sha256": "a5c0f46de2b61b0254abfc1835c6ae49df8c76c743197e029bdc71c46562ad9c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-001",
+   "short": "Ley 1/2004, de 16 de febrero",
+   "title": "Ley 1/2004, de 16 de febrero, para la aplicación al municipio de Logroño del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-3751",
+   "versions": [
+    {
+     "from": "2004-02-20",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-3751",
+     "sha256": "a7ea84227646522d73ffee762afc40708c8fa59e53be9939c7e0afee3cbdcaf7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-002",
+   "short": "Ley 2/2004, de 22 de abril",
+   "title": "Ley 2/2004, de 22 de abril, de creación del Colegio Oficial de Fisioterapeutas de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-8475",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-8475",
+     "sha256": "d8680d76ba8af27510039f82f9d414c50c424eed034f9421056c84452ce2c750"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-8475",
+     "sha256": "d8680d76ba8af27510039f82f9d414c50c424eed034f9421056c84452ce2c750"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-003",
+   "short": "Ley 3/2004, de 25 de junio",
+   "title": "Ley 3/2004, de 25 de junio, de Consejos Escolares de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-13062",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13062",
+     "sha256": "12559f89f290cf735d4f55e22041f3f8040e6aeb9c912d07d7d2351229fcfb2c"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13062",
+     "sha256": "12559f89f290cf735d4f55e22041f3f8040e6aeb9c912d07d7d2351229fcfb2c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-006",
+   "short": "Ley 6/2004, de 18 de octubre",
+   "title": "Ley 6/2004, de 18 de octubre, de Cajas de Ahorros de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-19174",
+   "versions": [
+    {
+     "from": "2004-11-12",
+     "units": 117,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19174",
+     "sha256": "c6abe5be015e504a85d8aed66f6730add8399e79e804c647c4ea76edaf934422"
+    },
+    {
+     "from": "2010-12-20",
+     "units": 122,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19174",
+     "sha256": "c6abe5be015e504a85d8aed66f6730add8399e79e804c647c4ea76edaf934422"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-007",
+   "short": "Ley 7/2004, de 18 de octubre",
+   "title": "Ley 7/2004, de 18 de octubre, de Patrimonio Cultural, Histórico y Artístico de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-19175",
+   "versions": [
+    {
+     "from": "2004-11-12",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19175",
+     "sha256": "59e714a7d3b380b95bbfcfee9616441fe765d3702bc99bbc8815d6ece016fc8c"
+    },
+    {
+     "from": "2005-12-25",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19175",
+     "sha256": "59e714a7d3b380b95bbfcfee9616441fe765d3702bc99bbc8815d6ece016fc8c"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19175",
+     "sha256": "59e714a7d3b380b95bbfcfee9616441fe765d3702bc99bbc8815d6ece016fc8c"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19175",
+     "sha256": "59e714a7d3b380b95bbfcfee9616441fe765d3702bc99bbc8815d6ece016fc8c"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-19175",
+     "sha256": "59e714a7d3b380b95bbfcfee9616441fe765d3702bc99bbc8815d6ece016fc8c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-002",
+   "short": "Ley 2/2005, de 1 de marzo",
+   "title": "Ley 2/2005, de 1 de marzo, de Estadística de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-4214",
+   "versions": [
+    {
+     "from": "2005-03-23",
+     "units": 49,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-4214",
+     "sha256": "a168feacf50407d964e826d24e0d7a71b2aecc133606e6218602c9f7b4eef3fc"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 49,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-4214",
+     "sha256": "a168feacf50407d964e826d24e0d7a71b2aecc133606e6218602c9f7b4eef3fc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-003",
+   "short": "Ley 3/2005, de 14 de marzo",
+   "title": "Ley 3/2005, de 14 de marzo, de Ordenación de la actividad comercial y las actividades feriales en la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-5660",
+   "versions": [
+    {
+     "from": "2005-09-22",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-5660",
+     "sha256": "c7c88432505693afe315a2c35b25b071c160214d8e9eb720ca6f81941be040b5"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-5660",
+     "sha256": "c7c88432505693afe315a2c35b25b071c160214d8e9eb720ca6f81941be040b5"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-5660",
+     "sha256": "c7c88432505693afe315a2c35b25b071c160214d8e9eb720ca6f81941be040b5"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-5660",
+     "sha256": "c7c88432505693afe315a2c35b25b071c160214d8e9eb720ca6f81941be040b5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-004",
+   "short": "Ley 4/2005, de 1 de junio",
+   "title": "Ley 4/2005, de 1 de junio, de funcionamiento y régimen jurídico de la Administración de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-10458",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    },
+    {
+     "from": "2026-04-30",
+     "units": 104,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10458",
+     "sha256": "29b9296e13c8128b7ecfa318559b589d4f51625c9345c75304870ebb40d4656e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-005",
+   "short": "Ley 5/2005, de 1 de junio",
+   "title": "Ley 5/2005, de 1 de junio, de los sistemas de protección de la calidad agroalimentaria.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-10459",
+   "versions": [
+    {
+     "from": "2005-06-08",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10459",
+     "sha256": "822f08ba080479376022b8a8a2ccf294dda6b38bc298018f900c6f8826437032"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10459",
+     "sha256": "822f08ba080479376022b8a8a2ccf294dda6b38bc298018f900c6f8826437032"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-10459",
+     "sha256": "822f08ba080479376022b8a8a2ccf294dda6b38bc298018f900c6f8826437032"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-006",
+   "short": "Ley 6/2005, de 15 de junio",
+   "title": "Ley 6/2005, de 15 de junio, de la Comunidad Riojana en el Exterior.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-12753",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-12753",
+     "sha256": "e66b3acb2c0f903c2432127cdd433c0818d6e63f0fb9b9e6040df7428c73f62c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-008",
+   "short": "Ley 8/2005, de 30 de junio",
+   "title": "Ley 8/2005, de 30 de junio, reguladora del Transporte Urbano por Carretera de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-12880",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-12880",
+     "sha256": "3938fe139309f4e513819d0cbfb930fe4cb1d9ae4c672cef86cf2f5eac39ed69"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-009",
+   "short": "Ley 9/2005, de 30 de septiembre",
+   "title": "Ley 9/2005, de 30 de septiembre, reguladora del documento de instrucciones previas en el ámbito de la sanidad.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-17346",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-17346",
+     "sha256": "63d0f28b24cb534ad3ed65ea2df90b4198e6a8a6055902491067cfad03283e89"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-011",
+   "short": "Ley 11/2005, de 19 de octubre",
+   "title": "Ley 11/2005, de 19 de octubre, de Patrimonio de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18493",
+   "versions": [
+    {
+     "from": "2005-12-25",
+     "units": 169,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 170,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 171,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2009-12-01",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-18493",
+     "sha256": "f15669c8065eb7015694276596247fc40516359ba0f08992772810744a719004"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-001",
+   "short": "Ley 1/2006, de 28 de febrero",
+   "title": "Ley 1/2006, de 28 de febrero, de protección de menores de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5208",
+   "versions": [
+    {
+     "from": "2006-09-09",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5208",
+     "sha256": "e021c55a6d33accabd0b8bc800aaa51b97cf4b4bc56ad4c1f052872e14fd510e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 137,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5208",
+     "sha256": "e021c55a6d33accabd0b8bc800aaa51b97cf4b4bc56ad4c1f052872e14fd510e"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 137,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5208",
+     "sha256": "e021c55a6d33accabd0b8bc800aaa51b97cf4b4bc56ad4c1f052872e14fd510e"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 137,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5208",
+     "sha256": "e021c55a6d33accabd0b8bc800aaa51b97cf4b4bc56ad4c1f052872e14fd510e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-002",
+   "short": "Ley 2/2006, de 28 de febrero",
+   "title": "Ley 2/2006, de 28 de febrero, de Pesca de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5209",
+   "versions": [
+    {
+     "from": "2006-06-09",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5209",
+     "sha256": "f0476d4cf7a04209fdd91622d0b7b61fd18a475511d2dcf2141afd32ca49ba9a"
+    },
+    {
+     "from": "2009-12-27",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5209",
+     "sha256": "f0476d4cf7a04209fdd91622d0b7b61fd18a475511d2dcf2141afd32ca49ba9a"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5209",
+     "sha256": "f0476d4cf7a04209fdd91622d0b7b61fd18a475511d2dcf2141afd32ca49ba9a"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5209",
+     "sha256": "f0476d4cf7a04209fdd91622d0b7b61fd18a475511d2dcf2141afd32ca49ba9a"
+    },
+    {
+     "from": "2023-02-28",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5209",
+     "sha256": "f0476d4cf7a04209fdd91622d0b7b61fd18a475511d2dcf2141afd32ca49ba9a"
+    },
+    {
+     "from": "2023-03-10",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-5209",
+     "sha256": "f0476d4cf7a04209fdd91622d0b7b61fd18a475511d2dcf2141afd32ca49ba9a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-004",
+   "short": "Ley 4/2006, de 19 de abril",
+   "title": "Ley 4/2006, de 19 de abril, del Instituto de Estudios Riojanos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-8718",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-8718",
+     "sha256": "18951e8a8dfaf036a88d40f81e0631b84ec384efb32919ef574d2ac1b1fdf333"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-005",
+   "short": "Ley 5/2006, de 2 de mayo",
+   "title": "Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-9008",
+   "versions": [
+    {
+     "from": "2006-11-04",
+     "units": 260,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 261,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 261,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 263,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 263,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 264,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 264,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 264,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2015-04-14",
+     "units": 264,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 264,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2019-03-21",
+     "units": 265,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 265,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 268,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 268,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 268,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 268,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 268,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 270,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9008",
+     "sha256": "760ad1ef5863fcf1107b34b5faec22105b71c37ffe97565dd41d4468cb350832"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-006",
+   "short": "Ley 6/2006, de 2 de mayo",
+   "title": "Ley 6/2006, de 2 de mayo, del Defensor del Pueblo Riojano.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-9009",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9009",
+     "sha256": "6ddf1cb4cde4867dbe311f27e3935f1d611a9a4bfc0aa51d7b6449845991a0bd"
+    },
+    {
+     "from": "2008-05-21",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9009",
+     "sha256": "6ddf1cb4cde4867dbe311f27e3935f1d611a9a4bfc0aa51d7b6449845991a0bd"
+    },
+    {
+     "from": "2012-07-24",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9009",
+     "sha256": "6ddf1cb4cde4867dbe311f27e3935f1d611a9a4bfc0aa51d7b6449845991a0bd"
+    },
+    {
+     "from": "2013-10-24",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9009",
+     "sha256": "6ddf1cb4cde4867dbe311f27e3935f1d611a9a4bfc0aa51d7b6449845991a0bd"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-9009",
+     "sha256": "6ddf1cb4cde4867dbe311f27e3935f1d611a9a4bfc0aa51d7b6449845991a0bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-008",
+   "short": "Ley 8/2006, de 18 de octubre",
+   "title": "Ley 8/2006, de 18 de octubre, de transporte interurbano por carretera de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20004",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-20004",
+     "sha256": "99bb115e898027a07fbdc1bc693d95a31a30aa4e02c2b871a259b42c538cd6e0"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-20004",
+     "sha256": "99bb115e898027a07fbdc1bc693d95a31a30aa4e02c2b871a259b42c538cd6e0"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-20004",
+     "sha256": "99bb115e898027a07fbdc1bc693d95a31a30aa4e02c2b871a259b42c538cd6e0"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-20004",
+     "sha256": "99bb115e898027a07fbdc1bc693d95a31a30aa4e02c2b871a259b42c538cd6e0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-001",
+   "short": "Ley 1/2007, de 12 de febrero",
+   "title": "Ley 1/2007, de 12 de febrero, de Fundaciones de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4944",
+   "versions": [
+    {
+     "from": "2007-03-17",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4944",
+     "sha256": "1951b5fdf36122173161c51185a6c254c940a060fe5ae18a4a05f8324369e21d"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4944",
+     "sha256": "1951b5fdf36122173161c51185a6c254c940a060fe5ae18a4a05f8324369e21d"
+    },
+    {
+     "from": "2013-05-23",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4944",
+     "sha256": "1951b5fdf36122173161c51185a6c254c940a060fe5ae18a4a05f8324369e21d"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4944",
+     "sha256": "1951b5fdf36122173161c51185a6c254c940a060fe5ae18a4a05f8324369e21d"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4944",
+     "sha256": "1951b5fdf36122173161c51185a6c254c940a060fe5ae18a4a05f8324369e21d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-002",
+   "short": "Ley 2/2007, de 1 de marzo",
+   "title": "Ley 2/2007, de 1 de marzo, de Vivienda de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6609",
+   "versions": [
+    {
+     "from": "2007-09-08",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6609",
+     "sha256": "c1b8b39ed53c63e34b8cdc281c4b1bacb72d24855ae53db5c5511361b5b1bb35"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-003",
+   "short": "Ley 3/2007, de 1 de marzo",
+   "title": "Ley 3/2007, de 1 de marzo, de Calidad de los Servicios Sociales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6610",
+   "versions": [
+    {
+     "from": "2007-03-09",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-6610",
+     "sha256": "ea544a4fe457f9d59c5277d238ce23b527533611185d8778fffbc9c03e77c663"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-004",
+   "short": "Ley 4/2007, 17 de septiembre, de homologación de retribuciones de los miembros del Gobierno y Altos Cargos de la Comu...",
+   "title": "Ley 4/2007, 17 de septiembre, de homologación de retribuciones de los miembros del Gobierno y Altos Cargos de la Comunidad Autónoma y del Parlamento de La Rioja con los de la Administración General del Estado.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-17498",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-17498",
+     "sha256": "1a0be886fc1434e142ef84d371c1781bec8aee1f8ea478994c51fdeb6ac1a209"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-17498",
+     "sha256": "1a0be886fc1434e142ef84d371c1781bec8aee1f8ea478994c51fdeb6ac1a209"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-17498",
+     "sha256": "1a0be886fc1434e142ef84d371c1781bec8aee1f8ea478994c51fdeb6ac1a209"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-004",
+   "short": "Ley 4/2009, de 20 de octubre",
+   "title": "Ley 4/2009, de 20 de octubre, de aprovechamientos de recursos pastables.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17895",
+   "versions": [
+    {
+     "from": "2009-10-24",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-17895",
+     "sha256": "ca22686c9e11da0d1cf938b201a7c3dec2e6ad3afc989f66c2c33adf521c586e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-007",
+   "short": "Ley 7/2009, de 22 de diciembre",
+   "title": "Ley 7/2009, de 22 de diciembre, de Servicios Sociales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-658",
+   "versions": [
+    {
+     "from": "2010-01-17",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2017-09-05",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 121,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 121,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 122,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 123,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2022-09-23",
+     "units": 123,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-658",
+     "sha256": "a01928c81639ec6c50a1e634ea125464cb2151158e599172db360d4d823bc3ed"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-005",
+   "short": "Ley 5/2010, de 14 de mayo",
+   "title": "Ley 5/2010, de 14 de mayo, de coordinación de Policías Locales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-9108",
+   "versions": [
+    {
+     "from": "2010-05-22",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2011-03-22",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2011-07-16",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2013-11-07",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-9108",
+     "sha256": "dae850a3f5253e5848d2401a1fc27c0ffdae9387f90c1cb843201acb9b8002bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-007",
+   "short": "Ley 7/2010, de 29 de septiembre",
+   "title": "Ley 7/2010, de 29 de septiembre, por la que se aprueban varios convenios de colaboración con otras Comunidades Autónomas para el establecimiento de programas de actuación conjunta en diversas materias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-15790",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 3,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15790",
+     "sha256": "43b7a4601621ad337afa581db917151b140eab819375b6f985d840d11dfe0437"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-001",
+   "short": "Ley 1/2011, de 7 de febrero",
+   "title": "Ley 1/2011, de 7 de febrero, de protección civil y atención de emergencias de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-3637",
+   "versions": [
+    {
+     "from": "2011-03-12",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3637",
+     "sha256": "32b1dad0a2857649354f8df431174255cb9eaeb031ce98ec8c72472275541418"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3637",
+     "sha256": "32b1dad0a2857649354f8df431174255cb9eaeb031ce98ec8c72472275541418"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-003",
+   "short": "Ley 3/2011, de 1 de marzo",
+   "title": "Ley 3/2011, de 1 de marzo, de prevención, protección y coordinación institucional en materia de violencia en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-4951",
+   "versions": [
+    {
+     "from": "2011-03-27",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-4951",
+     "sha256": "b19253608b5a9fcb934412f177005ffff893425a89bc124fbb46b38f502d563c"
+    },
+    {
+     "from": "2022-09-23",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-4951",
+     "sha256": "b19253608b5a9fcb934412f177005ffff893425a89bc124fbb46b38f502d563c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-001",
+   "short": "Ley 1/2012, de 12 de junio",
+   "title": "Ley 1/2012, de 12 de junio, por la que se establece y regula una red de apoyo a la mujer embarazada.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-8678",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-8678",
+     "sha256": "744830ae967e292341420d6833e25289fd7c489319df74446e99f8adc1847301"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-007",
+   "short": "Ley 7/2012, de 21 de diciembre",
+   "title": "Ley 7/2012, de 21 de diciembre, de Medidas Fiscales y Administrativas para el año 2013.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-452",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-452",
+     "sha256": "446cf86719a0fda8dc1f1ba7a5669860cd0500b5b1c9c2e3b52eea76b782a2e9"
+    },
+    {
+     "from": "2013-06-25",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-452",
+     "sha256": "446cf86719a0fda8dc1f1ba7a5669860cd0500b5b1c9c2e3b52eea76b782a2e9"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 104,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-452",
+     "sha256": "446cf86719a0fda8dc1f1ba7a5669860cd0500b5b1c9c2e3b52eea76b782a2e9"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-452",
+     "sha256": "446cf86719a0fda8dc1f1ba7a5669860cd0500b5b1c9c2e3b52eea76b782a2e9"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-452",
+     "sha256": "446cf86719a0fda8dc1f1ba7a5669860cd0500b5b1c9c2e3b52eea76b782a2e9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-001",
+   "short": "Ley 1/2013, de 4 de marzo",
+   "title": "Ley 1/2013, de 4 de marzo, de creación del Colegio Profesional de Ingenieros Técnicos en Informática de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-3143",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-3143",
+     "sha256": "a24ecce92f6dde60633c3b31779984f57274c88002f79252ae2192939799537e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-002",
+   "short": "Ley 2/2013, de 4 de marzo",
+   "title": "Ley 2/2013, de 4 de marzo, de creación del Colegio Profesional de Ingenieros en Informática de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-3144",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-3144",
+     "sha256": "271568872d3b082ed03b3eed71e15b50122d65823837a4313d6a96de5d8ef826"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-003",
+   "short": "Ley 3/2013, de 4 de marzo",
+   "title": "Ley 3/2013, de 4 de marzo, de creación del Colegio Profesional de Terapeutas Ocupacionales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-3145",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-3145",
+     "sha256": "d00b6d26ba556d88ac5ef861a8392ccda7eb98d37d20ab2b0bf55d77da2a9337"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-004",
+   "short": "Ley 4/2013, de 4 de marzo",
+   "title": "Ley 4/2013, de 4 de marzo, de Creación del Colegio Profesional de Educadores Sociales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-3146",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-3146",
+     "sha256": "3f11f7230a9c446be8ee97d98375a6188886ffe4d2981788545e0a358d2b659a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-005",
+   "short": "Ley 5/2013, de 12 de abril",
+   "title": "Ley 5/2013, de 12 de abril, para la defensa de los consumidores en la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-4464",
+   "versions": [
+    {
+     "from": "2013-05-09",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-4464",
+     "sha256": "52fefbe9100bc5c991df1fa2dee03323de9b4552a51b2d7288cfb7c132113470"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-4464",
+     "sha256": "52fefbe9100bc5c991df1fa2dee03323de9b4552a51b2d7288cfb7c132113470"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-008",
+   "short": "Ley 8/2013, de 27 de septiembre",
+   "title": "Ley 8/2013, de 27 de septiembre, de creación del Colegio Profesional de Periodistas de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-11499",
+   "versions": [
+    {
+     "from": "2013-10-08",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11499",
+     "sha256": "21a56a89eb2ce19f11308a58bf356d35c0a0473f75320f6a72163e9243619d02"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-010",
+   "short": "Ley 10/2013, de 21 de octubre",
+   "title": "Ley 10/2013, de 21 de octubre, de apoyo a emprendedores, autónomos y Pymes.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-11691",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11691",
+     "sha256": "b648525070d594842a9efeca9051c26bbe38399249d9b4f9a2b0972618f6116d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-011",
+   "short": "Ley 11/2013, de 21 de octubre",
+   "title": "Ley 11/2013, de 21 de octubre, de Hacienda Pública de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-11692",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 217,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 217,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 217,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11692",
+     "sha256": "38caa806692b5a7e7d33fb741c428b77bed359cda74ea2ea0ab646cfcc1097c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-002",
+   "short": "Ley 2/2014, de 3 de junio",
+   "title": "Ley 2/2014, de 3 de junio, de medidas para la garantía y la continuidad de los servicios públicos en la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-6667",
+   "versions": [
+    {
+     "from": "2014-06-07",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-6667",
+     "sha256": "cda0de69dc022d1940666306e36d6f987e1ee09e37c2f437cf31e42e9a4f6955"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-003",
+   "short": "Ley 3/2014, de 11 de septiembre",
+   "title": "Ley 3/2014, de 11 de septiembre, de Transparencia y Buen Gobierno de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-9898",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9898",
+     "sha256": "df8aa53933a215245cdbcdfa55c89168b0f23dae165f3bb8fee252bb6d97f9a5"
+    },
+    {
+     "from": "2014-12-10",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9898",
+     "sha256": "df8aa53933a215245cdbcdfa55c89168b0f23dae165f3bb8fee252bb6d97f9a5"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9898",
+     "sha256": "df8aa53933a215245cdbcdfa55c89168b0f23dae165f3bb8fee252bb6d97f9a5"
+    },
+    {
+     "from": "2017-05-13",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9898",
+     "sha256": "df8aa53933a215245cdbcdfa55c89168b0f23dae165f3bb8fee252bb6d97f9a5"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9898",
+     "sha256": "df8aa53933a215245cdbcdfa55c89168b0f23dae165f3bb8fee252bb6d97f9a5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-004",
+   "short": "Ley 4/2014, de 11 de septiembre",
+   "title": "Ley 4/2014, de 11 de septiembre, de creación del Colegio de Economistas de La Rioja por unión del Colegio de Economistas de La Rioja y del Colegio de Titulares Mercantiles de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-9899",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9899",
+     "sha256": "5b8628f4618e9614991b2b7833fe48994ff7536078ea9c8c512b8ef58d72e224"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-001",
+   "short": "Ley 1/2015, de 23 de marzo",
+   "title": "Ley 1/2015, de 23 de marzo, del ejercicio físico y del deporte de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4028",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 220,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4028",
+     "sha256": "865a3c57a595ebf452bfbf891a23ade77fe6defda70b41048b2b28b5500a5f89"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-002",
+   "short": "Ley 2/2015, de 23 de marzo",
+   "title": "Ley 2/2015, de 23 de marzo, del Estatuto de capitalidad de la ciudad de Logroño.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4029",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4029",
+     "sha256": "22cd7e8c4f38009fbc817323eeaf7019dd072ca30c56ea5ef165bd3e8e31a064"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-003",
+   "short": "Ley 3/2015, de 23 de marzo",
+   "title": "Ley 3/2015, de 23 de marzo, de la Cámara Oficial de Comercio, Industria y Servicios de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4030",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4030",
+     "sha256": "36f720f0f7af79a84405e895cd7933e5c00e04680f1e653d52604c718f55c3d0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-006",
+   "short": "Ley 6/2015, de 29 de diciembre",
+   "title": "Ley 6/2015, de 29 de diciembre, de Medidas Fiscales y Administrativas para el año 2016.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-392",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-392",
+     "sha256": "9bf20704fdb1aa168b79694451b06c0ea41bb48b265c35972103b68aa416dba1"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-392",
+     "sha256": "9bf20704fdb1aa168b79694451b06c0ea41bb48b265c35972103b68aa416dba1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-001",
+   "short": "Ley 1/2016, de 4 de abril",
+   "title": "Ley 1/2016, de 4 de abril, de impulso y consolidación del diálogo social en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-3831",
+   "versions": [
+    {
+     "from": "2016-04-09",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-3831",
+     "sha256": "1ea32efb1b2a41d2e019e7f130a097ce2ab627503e487d3abac8386e4e3c7fbf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-002",
+   "short": "Ley 2/2016, de 14 de octubre",
+   "title": "Ley 2/2016, de 14 de octubre, por la que se crea el Colegio Profesional de Logopedas de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-10358",
+   "versions": [
+    {
+     "from": "2016-10-20",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-10358",
+     "sha256": "ed076fe67cfc4ce8611a4b85f7fb07749e16663946463d0224d57b9424e3222c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-001",
+   "short": "Ley 1/2017, de 3 de enero",
+   "title": "Ley 1/2017, de 3 de enero, del control del potencial vitícola en la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-588",
+   "versions": [
+    {
+     "from": "2016-01-10",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-588",
+     "sha256": "b81bf80c6f1f9d3e5300fd22d29de79ff7f781bb7713c2ba28e6ecf5a128007e"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-588",
+     "sha256": "b81bf80c6f1f9d3e5300fd22d29de79ff7f781bb7713c2ba28e6ecf5a128007e"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-588",
+     "sha256": "b81bf80c6f1f9d3e5300fd22d29de79ff7f781bb7713c2ba28e6ecf5a128007e"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-588",
+     "sha256": "b81bf80c6f1f9d3e5300fd22d29de79ff7f781bb7713c2ba28e6ecf5a128007e"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-588",
+     "sha256": "b81bf80c6f1f9d3e5300fd22d29de79ff7f781bb7713c2ba28e6ecf5a128007e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-588",
+     "sha256": "b81bf80c6f1f9d3e5300fd22d29de79ff7f781bb7713c2ba28e6ecf5a128007e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-003",
+   "short": "Ley 3/2017, de 31 de marzo",
+   "title": "Ley 3/2017, de 31 de marzo, de Medidas Fiscales y Administrativas para el año 2017.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-4394",
+   "versions": [
+    {
+     "from": "2017-04-02",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-4394",
+     "sha256": "96408a4e34b44236e7336cb9f91e7bbaa6ba1d4c5f4c297577b91fc0dcce8121"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-4394",
+     "sha256": "96408a4e34b44236e7336cb9f91e7bbaa6ba1d4c5f4c297577b91fc0dcce8121"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-004",
+   "short": "Ley 4/2017, de 28 de abril",
+   "title": "Ley 4/2017, de 28 de abril, por la que se regula la Renta de Ciudadanía de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5627",
+   "versions": [
+    {
+     "from": "2017-09-05",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5627",
+     "sha256": "63fd82e58a619ca4e35f975b72088b313b16f31361820306a8f1b20c8578498d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-005",
+   "short": "Ley 5/2017, de 8 de mayo",
+   "title": "Ley 5/2017, de 8 de mayo, de Cuentas Abiertas para la Administración de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5830",
+   "versions": [
+    {
+     "from": "2017-05-13",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5830",
+     "sha256": "3ec6415cc04cabcf79e543e2f558a12ed96f4df61cfad7dc9978b51203dc9081"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-006",
+   "short": "Ley 6/2017, de 8 de mayo",
+   "title": "Ley 6/2017, de 8 de mayo, de Protección del Medio Ambiente de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5831",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5831",
+     "sha256": "97436b4bed748086b9ea6239f64eeb0083c33b18a1758492467ce432a8eeca88"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-007",
+   "short": "Ley 7/2017, de 22 de mayo",
+   "title": "Ley 7/2017, de 22 de mayo, de Comunicación y Publicidad Institucional.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6071",
+   "versions": [
+    {
+     "from": "2017-06-13",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-6071",
+     "sha256": "f054e03f33291b62c882b61ba340727d8cabf2ae8cc806c00dd91d0a08226fc1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-008",
+   "short": "Ley 8/2017, de 19 de septiembre",
+   "title": "Ley 8/2017, de 19 de septiembre, de perros de asistencia de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-11508",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-11508",
+     "sha256": "362ac668c20728863ff994bcf67ea074111e0a5511afbbfbbab3b3e6d7e59785"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-010",
+   "short": "Ley 10/2017, de 27 de octubre",
+   "title": "Ley 10/2017, de 27 de octubre, por la que se consolidan las disposiciones legales de la Comunidad Autónoma de La Rioja en materia de impuestos propios y tributos cedidos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-13750",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2019-03-07",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2021-04-30",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2023-11-09",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2024-02-09",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    },
+    {
+     "from": "2026-10-29",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13750",
+     "sha256": "a17b67f0d9da084f36c91dd7720d4cd26873b4dec42b42fc71bcf9509b825210"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-003",
+   "short": "Ley 3/2018, de 16 de febrero",
+   "title": "Ley 3/2018, de 16 de febrero, para la protección, difusión y promoción de la tauromaquia en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-3000",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3000",
+     "sha256": "521a900886d02d65bbd0724bbd5cea81a075794fa4646b1c0e3e833b31c9bd5f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-004",
+   "short": "Ley 4/2018, de 10 de abril",
+   "title": "Ley 4/2018, de 10 de abril, de medidas a favor de las víctimas del terrorismo de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-6220",
+   "versions": [
+    {
+     "from": "2018-04-13",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-6220",
+     "sha256": "2affa8ca92e025d29541509ba98fbb29166ed71458dce4460732e467a486a3d7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-005",
+   "short": "Ley 5/2018, de 19 de octubre",
+   "title": "Ley 5/2018, de 19 de octubre, de gratuidad de los libros de texto y material curricular.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15241",
+   "versions": [
+    {
+     "from": "2019-06-17",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-15241",
+     "sha256": "fb8f413e5a82cec8b3b6804f8fd7e251aac4968ff0a5409b3884ab307082c448"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-15241",
+     "sha256": "fb8f413e5a82cec8b3b6804f8fd7e251aac4968ff0a5409b3884ab307082c448"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-15241",
+     "sha256": "fb8f413e5a82cec8b3b6804f8fd7e251aac4968ff0a5409b3884ab307082c448"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-15241",
+     "sha256": "fb8f413e5a82cec8b3b6804f8fd7e251aac4968ff0a5409b3884ab307082c448"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-004",
+   "short": "Ley 4/2019, de 1 de abril",
+   "title": "Ley 4/2019, de 1 de abril, por la que se crea el Colegio Profesional de Dietistas-Nutricionistas de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5821",
+   "versions": [
+    {
+     "from": "2019-04-06",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-5821",
+     "sha256": "9ecfcd0a8b5098bf0565f7c486dd5cc6f21f05ce13553297b71a37d4c4b234c2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-003",
+   "short": "Ley 3/2021, de 28 de abril",
+   "title": "Ley 3/2021, de 28 de abril, de Mecenazgo de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-7691",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-7691",
+     "sha256": "887fce4d5f7777508ebafb77638e8c980c00902d18f20c6f14d3cb426b9fd4e6"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-7691",
+     "sha256": "887fce4d5f7777508ebafb77638e8c980c00902d18f20c6f14d3cb426b9fd4e6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-001",
+   "short": "Ley 1/2022, de 23 de febrero",
+   "title": "Ley 1/2022, de 23 de febrero, de transformación de la organización sanitaria \"Fundación Hospital Calahorra\" en Fundación Pública Sanitaria, regulación de su régimen jurídico e integración en el Servicio Riojano de Salud como entidad dependiente.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-3600",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-3600",
+     "sha256": "a2b94408b1bf5f758fa467fe973f183367ebb0b72c2b678ec7045a119040f466"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-3600",
+     "sha256": "a2b94408b1bf5f758fa467fe973f183367ebb0b72c2b678ec7045a119040f466"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-002",
+   "short": "Ley 2/2022, de 23 de febrero",
+   "title": "Ley 2/2022, de 23 de febrero, de igualdad, reconocimiento a la identidad y expresión de género y derechos de las personas trans y sus familiares en la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-3601",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-3601",
+     "sha256": "d4d7b80aa1097d06438748e5bedad8f800e0e2ec3ae40fd2077a5565ead2d2bb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-003",
+   "short": "Ley 3/2022, de 29 de marzo",
+   "title": "Ley 3/2022, de 29 de marzo, reguladora del juego y las apuestas de La Rioja y de la prevención del juego problemático y patológico.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-6677",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6677",
+     "sha256": "9262042603048f7d240ff315e721bec6cfccc8da06816204c76184640356b864"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6677",
+     "sha256": "9262042603048f7d240ff315e721bec6cfccc8da06816204c76184640356b864"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6677",
+     "sha256": "9262042603048f7d240ff315e721bec6cfccc8da06816204c76184640356b864"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-004",
+   "short": "Ley 4/2022, de 29 de marzo",
+   "title": "Ley 4/2022, de 29 de marzo, por la que se alza la suspensión del funcionamiento del Consejo Económico y Social de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-6678",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6678",
+     "sha256": "60a3a3f576a846f398ca218732b843bb9f3abd49c588eba74e0812e58c1560e1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-005",
+   "short": "Ley 5/2022, de 25 de abril",
+   "title": "Ley 5/2022, de 25 de abril, para la recuperación de la memoria democrática en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7640",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-7640",
+     "sha256": "b1e898d6dfeb224c0081eb284efd6a93eb06ad0e2bdbb23252ef3e6dba056e11"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-008",
+   "short": "Ley 8/2022, de 24 de junio",
+   "title": "Ley 8/2022, de 24 de junio, de caza y gestión cinegética de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11228",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-11228",
+     "sha256": "c9c4959434f9e566de55f9af24fc4ba2a41bb5a560616bbb482a984b3fa4d4f1"
+    },
+    {
+     "from": "2023-02-28",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-11228",
+     "sha256": "c9c4959434f9e566de55f9af24fc4ba2a41bb5a560616bbb482a984b3fa4d4f1"
+    },
+    {
+     "from": "2025-05-27",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-11228",
+     "sha256": "c9c4959434f9e566de55f9af24fc4ba2a41bb5a560616bbb482a984b3fa4d4f1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-009",
+   "short": "Ley 9/2022, de 20 de julio",
+   "title": "Ley 9/2022, de 20 de julio, sobre economía social y solidaria de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-13067",
+   "versions": [
+    {
+     "from": "2022-07-23",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13067",
+     "sha256": "d8fc94ab7dab5166145c27b72c6d8a7001f83799212b02d5416314c83da52b53"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13067",
+     "sha256": "d8fc94ab7dab5166145c27b72c6d8a7001f83799212b02d5416314c83da52b53"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13067",
+     "sha256": "d8fc94ab7dab5166145c27b72c6d8a7001f83799212b02d5416314c83da52b53"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-011",
+   "short": "Ley 11/2022, de 20 de septiembre",
+   "title": "Ley 11/2022, de 20 de septiembre, contra la Violencia de Género de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16127",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-16127",
+     "sha256": "930b60e3be9398ae0a9b89b141e891c916f988b38e99740c1e42f95e2cecc16e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-012",
+   "short": "Ley 12/2022, de 18 de octubre",
+   "title": "Ley 12/2022, de 18 de octubre, de reforma de la Ley 1/2003, de 3 de marzo, de la Administración Local de La Rioja, para la admisión extraordinaria de la participación y la votación telemáticas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-18105",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-18105",
+     "sha256": "2c930702a18dfcf6e194a4e5dc03ac02c7986d5d2508aec345d2789112d12a3b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-014",
+   "short": "Ley 14/2022, de 23 de diciembre",
+   "title": "Ley 14/2022, de 23 de diciembre, de Juventud de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-1606",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 80,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1606",
+     "sha256": "fe58074ae8e9ad0b78ba34269ae4c335d27849a54f1b8d9a009a0c65ad9eb9bc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-001",
+   "short": "Ley 1/2023, de 31 de enero",
+   "title": "Ley 1/2023, de 31 de enero, de accesibilidad universal de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-4326",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 112,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4326",
+     "sha256": "bb1cd56014db03546a0174d0c59dfe132ae306886eb847a780b3080ed849d6ac"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 113,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4326",
+     "sha256": "bb1cd56014db03546a0174d0c59dfe132ae306886eb847a780b3080ed849d6ac"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 113,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4326",
+     "sha256": "bb1cd56014db03546a0174d0c59dfe132ae306886eb847a780b3080ed849d6ac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-002",
+   "short": "Ley 2/2023, de 31 de enero",
+   "title": "Ley 2/2023, de 31 de enero, de biodiversidad y patrimonio natural de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-4327",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 201,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4327",
+     "sha256": "a5e4830054aabe35f1c3905a76ab29704c09058694aaf973465ef1f945bccddc"
+    },
+    {
+     "from": "2023-03-10",
+     "units": 201,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4327",
+     "sha256": "a5e4830054aabe35f1c3905a76ab29704c09058694aaf973465ef1f945bccddc"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 201,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4327",
+     "sha256": "a5e4830054aabe35f1c3905a76ab29704c09058694aaf973465ef1f945bccddc"
+    },
+    {
+     "from": "2025-05-27",
+     "units": 201,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-4327",
+     "sha256": "a5e4830054aabe35f1c3905a76ab29704c09058694aaf973465ef1f945bccddc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-003",
+   "short": "Ley 3/2023, de 7 de marzo",
+   "title": "Ley 3/2023, de 7 de marzo, de familias monoparentales en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7504",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-7504",
+     "sha256": "b0aa77fd32cd746a906c1469b522519529667d8d4ea040f074b313efc930810d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-006",
+   "short": "Ley 6/2023, de 22 de marzo",
+   "title": "Ley 6/2023, de 22 de marzo, de las personas con problemas de salud mental y sus familias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-9773",
+   "versions": [
+    {
+     "from": "2023-03-25",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-9773",
+     "sha256": "c546321cd54dd25618b3f7d9592dbb03a012021df1da5580e22e0cb6a7441ac0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-007",
+   "short": "Ley 7/2023, de 20 de abril",
+   "title": "Ley 7/2023, de 20 de abril, de igualdad efectiva de mujeres y hombres de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-11337",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11337",
+     "sha256": "ac96303644c7f6ce0a90e23cbfac52f860081e0d89c17690435094b130354f9c"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11337",
+     "sha256": "ac96303644c7f6ce0a90e23cbfac52f860081e0d89c17690435094b130354f9c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11337",
+     "sha256": "ac96303644c7f6ce0a90e23cbfac52f860081e0d89c17690435094b130354f9c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-008",
+   "short": "Ley 8/2023, de 20 de abril",
+   "title": "Ley 8/2023, de 20 de abril, de la ciencia, la tecnología y la innovación de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-11338",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11338",
+     "sha256": "2a9931f142d7c5b1ebab0dfec5286b295ace785f4cea043c29f501cdd6117c00"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11338",
+     "sha256": "2a9931f142d7c5b1ebab0dfec5286b295ace785f4cea043c29f501cdd6117c00"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-009",
+   "short": "Ley 9/2023, de 5 de mayo",
+   "title": "Ley 9/2023, de 5 de mayo, de función pública de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12918",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 172,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-12918",
+     "sha256": "118afd353f3da5c034be693fd8f038a70e4251e64782f929abe524ae134f3d76"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 173,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-12918",
+     "sha256": "118afd353f3da5c034be693fd8f038a70e4251e64782f929abe524ae134f3d76"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 177,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-12918",
+     "sha256": "118afd353f3da5c034be693fd8f038a70e4251e64782f929abe524ae134f3d76"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 179,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-12918",
+     "sha256": "118afd353f3da5c034be693fd8f038a70e4251e64782f929abe524ae134f3d76"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 179,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-12918",
+     "sha256": "118afd353f3da5c034be693fd8f038a70e4251e64782f929abe524ae134f3d76"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 179,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-12918",
+     "sha256": "118afd353f3da5c034be693fd8f038a70e4251e64782f929abe524ae134f3d76"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-004",
+   "short": "Ley 4/2024, de 1 de julio",
+   "title": "Ley 4/2024, de 1 de julio, de medidas administrativas y presupuestarias urgentes para la mejora de la prestación de los servicios públicos en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-14006",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-14006",
+     "sha256": "13b15007105c067362d5a84be723b526afe0154ffa5b1417c4e8ab5b94c5f274"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-003",
+   "short": "Ley 3/2025, de 23 de junio",
+   "title": "Ley 3/2025, de 23 de junio, de garantías y derechos de las personas con necesidades paliativas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-13560",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-13560",
+     "sha256": "651bf1373bad8628e31cd06ebd6ec5e715347073b82f9e8fbde7c0bbf4958ff5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-004",
+   "short": "Ley 4/2025, de 1 de julio",
+   "title": "Ley 4/2025, de 1 de julio, del paisaje de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-14378",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-14378",
+     "sha256": "ab91fea9e8f7afcdc1b6acb88d5ab8c976fe6987fc28ce9610fe40e989decb9a"
+    },
+    {
+     "from": "2026-04-21",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-14378",
+     "sha256": "ab91fea9e8f7afcdc1b6acb88d5ab8c976fe6987fc28ce9610fe40e989decb9a"
+    },
+    {
+     "from": "2026-07-07",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-14378",
+     "sha256": "ab91fea9e8f7afcdc1b6acb88d5ab8c976fe6987fc28ce9610fe40e989decb9a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-007",
+   "short": "Ley 7/2025, de 9 de septiembre",
+   "title": "Ley 7/2025, de 9 de septiembre, de atención y ordenación farmacéutica de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-18522",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-18522",
+     "sha256": "ccebc7499a32e5184d3a4d0fbb5af64d089074701f037f20cc6d088b92f19ce8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2026-002",
+   "short": "Ley 2/2026, de 28 de abril",
+   "title": "Ley 2/2026, de 28 de abril, de simplificación administrativa, mercado abierto y calidad normativa.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-10117",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-10117",
+     "sha256": "f6a8d965a2b1d56dcd1cffcd986bb0dd56b319b90a49b49086994dddd7420e32"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2026-003",
+   "short": "Ley 3/2026, de 1 de julio",
+   "title": "Ley 3/2026, de 1 de julio, de la gratuidad de los estudios oficiales de grado universitario o estudios superiores equivalentes en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-15463",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-15463",
+     "sha256": "e29022b4fe9044417a7d5077b957c74d7cd47bb37509b6b9681cfd325b476268"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1986-002",
+   "short": "Ley 2/1986, de 5 de marzo",
+   "title": "Ley 2/1986, de 5 de marzo, del Consejo de la Juventud de la Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-15202",
+   "versions": [
+    {
+     "from": "1986-06-11",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-15202",
+     "sha256": "519c98e941fc60e44a32beb929abd482ad906473293877bc0d08ff3c6f42cbec"
+    },
+    {
+     "from": "1992-05-27",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-15202",
+     "sha256": "519c98e941fc60e44a32beb929abd482ad906473293877bc0d08ff3c6f42cbec"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-15202",
+     "sha256": "519c98e941fc60e44a32beb929abd482ad906473293877bc0d08ff3c6f42cbec"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-003",
+   "short": "Ley 3/1990, de 29 de junio",
+   "title": "Ley 3/1990, de 29 de junio, de Función Pública de la Administración Pública de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-18911",
+   "versions": [
+    {
+     "from": "1990-08-05",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "1994-12-29",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "1996-01-06",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "1997-12-28",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "1999-12-31",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2000-12-31",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2005-09-07",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    },
+    {
+     "from": "2023-08-08",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-18911",
+     "sha256": "17cc6de42e4eceb4cd595c1f688dd86a0f72377ad02ac248b3a17fbb514dc4bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-005",
+   "short": "Ley 5/1994, de 19 de julio",
+   "title": "Ley 5/1994, de 19 de julio, de supresión de barreras arquitectónicas y promoción de la accesibilidad.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-19656",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-19656",
+     "sha256": "e48b7548016c8aff681ba5389f2133198516b9eddb687f58695d5977a3bb70e8"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-19656",
+     "sha256": "e48b7548016c8aff681ba5389f2133198516b9eddb687f58695d5977a3bb70e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1995-005",
+   "short": "Ley 5/1995, de 22 de marzo",
+   "title": "Ley 5/1995, de 22 de marzo, de Protección de los Animales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-9729",
+   "versions": [
+    {
+     "from": "1995-04-02",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-9729",
+     "sha256": "0373d321ec0c63bd99045636c6267d73bc399276678078ea341d1634d6722857"
+    },
+    {
+     "from": "2000-09-03",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-9729",
+     "sha256": "0373d321ec0c63bd99045636c6267d73bc399276678078ea341d1634d6722857"
+    },
+    {
+     "from": "2018-11-30",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-9729",
+     "sha256": "0373d321ec0c63bd99045636c6267d73bc399276678078ea341d1634d6722857"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-008",
+   "short": "Ley 8/1998, de 16 de junio",
+   "title": "Ley 8/1998, de 16 de junio, de Ordenación Farmacéutica de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-15526",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2006-11-13",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    },
+    {
+     "from": "2025-09-11",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-15526",
+     "sha256": "a2dd77deab1e736a10b65ac8418cb0438a855be0b1b6e044a4f507a8f6bdd55b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-009",
+   "short": "Ley 9/1998, de 2 de julio",
+   "title": "Ley 9/1998, de 2 de julio, de Caza de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16489",
+   "versions": [
+    {
+     "from": "1998-10-10",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    },
+    {
+     "from": "2022-06-29",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-16489",
+     "sha256": "9551d80510a4e3dd27a9e57f36c0c5a21e0a09e61706306c99f37728a6530435"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-005",
+   "short": "Ley 5/1999, de 13 de abril",
+   "title": "Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-9307",
+   "versions": [
+    {
+     "from": "1999-04-18",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "1999-12-31",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2000-12-31",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2017-04-02",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2019-03-07",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    },
+    {
+     "from": "2022-03-31",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-9307",
+     "sha256": "02fd4865f284d43b8558e82e05bd7d53925ecc2e890980328d7c722846db92ec"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-005",
+   "short": "Ley 5/2002, de 8 de octubre",
+   "title": "Ley 5/2002, de 8 de octubre, de Protección del Medio Ambiente en La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-20381",
+   "versions": [
+    {
+     "from": "2002-11-01",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    },
+    {
+     "from": "2013-10-26",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-20381",
+     "sha256": "8d9816ad3e6600102b9e261a26fe36b0ea2a7cf3ee23d33daca5f49be017b133"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-004",
+   "short": "Ley 4/2003, de 26 de marzo",
+   "title": "Ley 4/2003, de 26 de marzo, de Conservación de Espacios Naturales de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7528",
+   "versions": [
+    {
+     "from": "2003-04-02",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7528",
+     "sha256": "74a023cd8d17321b5dfb16ecd5b97036ea20a4cd97911ef9521cd1c705f95d51"
+    },
+    {
+     "from": "2023-02-28",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7528",
+     "sha256": "74a023cd8d17321b5dfb16ecd5b97036ea20a4cd97911ef9521cd1c705f95d51"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-007",
+   "short": "Ley 7/2005, de 30 de junio",
+   "title": "Ley 7/2005, de 30 de junio, de Juventud de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-12879",
+   "versions": [
+    {
+     "from": "2005-07-10",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-12879",
+     "sha256": "439bd762ef0f37b88270e657655dcba97ce98556abd0078b6a2db94b03fcd378"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-12879",
+     "sha256": "439bd762ef0f37b88270e657655dcba97ce98556abd0078b6a2db94b03fcd378"
+    },
+    {
+     "from": "2014-10-23",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-12879",
+     "sha256": "439bd762ef0f37b88270e657655dcba97ce98556abd0078b6a2db94b03fcd378"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-12879",
+     "sha256": "439bd762ef0f37b88270e657655dcba97ce98556abd0078b6a2db94b03fcd378"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-003",
+   "short": "Ley 3/2009, de 23 de junio",
+   "title": "Ley 3/2009, de 23 de junio, de la Ciencia, la Tecnología y la Innovación.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-11565",
+   "versions": [
+    {
+     "from": "2009-07-02",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-11565",
+     "sha256": "754bbd287970a989b32723fb7d8241500f92a88b96fd02d341bc34c01aa748d3"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-11565",
+     "sha256": "754bbd287970a989b32723fb7d8241500f92a88b96fd02d341bc34c01aa748d3"
+    },
+    {
+     "from": "2023-04-26",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-11565",
+     "sha256": "754bbd287970a989b32723fb7d8241500f92a88b96fd02d341bc34c01aa748d3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-002",
+   "short": "Ley 2/2011, de 1 de marzo",
+   "title": "Ley 2/2011, de 1 de marzo, de autoridad del profesor y de la convivencia en los centros educativos de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-4950",
+   "versions": [
+    {
+     "from": "2011-03-08",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-4950",
+     "sha256": "dd9e2483adc39157c4c2c8012cd24c5f6cbb5c666c162f55b031a1e2dc597198"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-4950",
+     "sha256": "dd9e2483adc39157c4c2c8012cd24c5f6cbb5c666c162f55b031a1e2dc597198"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-005",
+   "short": "Ley 5/2014, de 20 de octubre",
+   "title": "Ley 5/2014, de 20 de octubre, de administración electrónica y simplificación administrativa.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-12334",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-12334",
+     "sha256": "a440e3ebea12d273b23ff139277f6058a52309dfe1730ed607081f0a55302cc8"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-12334",
+     "sha256": "a440e3ebea12d273b23ff139277f6058a52309dfe1730ed607081f0a55302cc8"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-12334",
+     "sha256": "a440e3ebea12d273b23ff139277f6058a52309dfe1730ed607081f0a55302cc8"
+    },
+    {
+     "from": "2026-04-30",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-12334",
+     "sha256": "a440e3ebea12d273b23ff139277f6058a52309dfe1730ed607081f0a55302cc8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-004",
+   "short": "Ley 4/2015, de 23 de marzo",
+   "title": "Ley 4/2015, de 23 de marzo, de defensa de la calidad de la viña y el vino de la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4031",
+   "versions": [
+    {
+     "from": "2015-03-28",
+     "units": 6,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4031",
+     "sha256": "dff0f6bfbfbde503f1f8e3caab631479778c2290da6ecb0247e587693b120b6c"
+    },
+    {
+     "from": "2017-01-10",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4031",
+     "sha256": "dff0f6bfbfbde503f1f8e3caab631479778c2290da6ecb0247e587693b120b6c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-006",
+   "short": "Ley 6/2018, de 26 de noviembre",
+   "title": "Ley 6/2018, de 26 de noviembre, de protección de los animales en la Comunidad Autónoma de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-17064",
+   "versions": [
+    {
+     "from": "2018-11-30",
+     "units": 80,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17064",
+     "sha256": "10f3e973b5f7399025cee40abdd6f3caa918031d5e88f500ec55bae3435c405f"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 80,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17064",
+     "sha256": "10f3e973b5f7399025cee40abdd6f3caa918031d5e88f500ec55bae3435c405f"
+    },
+    {
+     "from": "2020-08-15",
+     "units": 80,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17064",
+     "sha256": "10f3e973b5f7399025cee40abdd6f3caa918031d5e88f500ec55bae3435c405f"
+    },
+    {
+     "from": "2023-08-08",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17064",
+     "sha256": "10f3e973b5f7399025cee40abdd6f3caa918031d5e88f500ec55bae3435c405f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-005",
+   "short": "Ley 5/2021, de 26 de octubre",
+   "title": "Ley 5/2021, de 26 de octubre, sobre enseñanza de religión y sus alternativas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18190",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18190",
+     "sha256": "8eb6b021e98b029a3b67112ef967a47e81449c943dadd0a6e20ae0d151f14b7d"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18190",
+     "sha256": "8eb6b021e98b029a3b67112ef967a47e81449c943dadd0a6e20ae0d151f14b7d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-013",
+   "short": "Ley 13/2022, de 2 de noviembre",
+   "title": "Ley 13/2022, de 2 de noviembre, de creación de la Agencia Riojana de Transición Energética y Cambio Climático.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-18898",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-18898",
+     "sha256": "e3e051fea9ba20abaacc2d2d0ee81e3f2f887d7cbb8c8ee4601f56eaaea472b4"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-18898",
+     "sha256": "e3e051fea9ba20abaacc2d2d0ee81e3f2f887d7cbb8c8ee4601f56eaaea472b4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-001",
+   "short": "Ley 1/2024, de 24 de enero",
+   "title": "Ley 1/2024, de 24 de enero, medidas temporales y urgentes para la protección del paisaje de La Rioja.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-2665",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-2665",
+     "sha256": "5fc38326fc602079c2f4c98d2f64c2828c63b22cbde2eec2cb876bc5563ebb9f"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-2665",
+     "sha256": "5fc38326fc602079c2f4c98d2f64c2828c63b22cbde2eec2cb876bc5563ebb9f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T14:06:12Z",
+ "generated": "2026-11-24T07:30:10Z",
  "latest": {
   "boe-autonomico|spain/la-rioja/acts": {
-   "attempt": 2,
+   "attempt": 1,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -26,31 +26,31 @@
     "repo": 139,
     "source_in_scope": 140
    },
-   "check_id": "es-boe-autonomico-20261123T140102Z",
+   "check_id": "es-boe-autonomico-20261124T072607Z",
    "commits": null,
    "corpus": "spain/la-rioja/acts",
    "error": null,
-   "finished": "2026-11-23T14:01:41Z",
+   "finished": "2026-11-24T07:26:36Z",
    "flags": [],
    "gap": 1,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 06:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261124T062451Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 20,
-   "runner": "lawwatch spain (f13b561b4f)",
+   "requests": 21,
+   "runner": "lawwatch spain (3a3ae06cd1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-23T13:21:37Z",
+   "snapshot": "2026-11-23T14:01:19Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T14:01:02Z",
+   "started": "2026-11-24T07:26:07Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,

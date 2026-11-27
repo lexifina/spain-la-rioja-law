@@ -6,18 +6,19 @@
 
 Cómo supervisa global-law todos los países: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Esta página hace lo mismo solo para La Rioja: cada vez que se lee una fuente oficial, cuándo y qué resultó (normas añadidas, modificadas y retiradas). La forma legible por máquina está en [data/checks/](../data/checks/) (JSON Lines, esquema `lexifina-check/1`), en `git log` como commits `Kind: check`, y mes a mes en [checks/](checks/).
 
-**Última comprobación:** 2026-11-26 06:30 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 21 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; sin cambios; 1 sin publicar, 0 de ellas sin motivo.
+**Última comprobación:** 2026-11-27 06:30 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 21 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; sin cambios; 1 sin publicar, 0 de ellas sin motivo. Avisos: `audit-disagrees`.
 
 ## Fuentes
 
 | Fuente | Carpetas | Frecuencia | Última comprobación correcta | Último resultado | Estado |
 | --- | --- | --- | --- | --- | --- |
-| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-26 06:30 UTC | sin cambios | vigilada |
+| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-27 06:30 UTC | sin cambios | vigilada |
 
 ## Los últimos 30 días
 
 | Inicio (UTC) | Fuente | Leídas | Añadidas | Modificadas | Retiradas | Sin publicar (sin motivo) | Resultado | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 06:30](checks/2026-11.md#es-boe-autonomico-20261127t063021z) | boe-autonomico | 21 | 0 | 0 | 0 | 1 (0) | sin cambios `audit-disagrees` | — |
 | [2026-11-26 06:30](checks/2026-11.md#es-boe-autonomico-20261126t063021z) | boe-autonomico | 21 | 0 | 0 | 0 | 1 (0) | sin cambios | — |
 | [2026-11-25 06:25](checks/2026-11.md#es-boe-autonomico-20261125t062555z) | boe-autonomico | 21 | 0 | 0 | 0 | 1 (0) | sin cambios | — |
 | [2026-11-24 07:26](checks/2026-11.md#es-boe-autonomico-20261124t072607z) | boe-autonomico | 21 | 0 | 0 | 0 | 1 (0) | sin cambios | — |

@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-27T06:34:17Z",
+ "generated": "2026-11-28T08:11:56Z",
  "latest": {
   "boe-autonomico|spain/la-rioja/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-2000-20554: 1 of 77 blocks of the page not found here; 755 of 97413 letters here not on the page as such"
+     "BOE-A-2002-21675: 0 of 99 blocks of the page not found here; 15679 of 69159 letters here not on the page as such"
     ],
     "match_neither": 1,
     "match_new": 4,
@@ -28,11 +28,11 @@
     "repo": 139,
     "source_in_scope": 140
    },
-   "check_id": "es-boe-autonomico-20261127T063021Z",
+   "check_id": "es-boe-autonomico-20261128T063215Z",
    "commits": null,
    "corpus": "spain/la-rioja/acts",
    "error": null,
-   "finished": "2026-11-27T06:30:47Z",
+   "finished": "2026-11-28T06:32:41Z",
    "flags": [
     {
      "detail": "1 of 5 read again by a second route disagree",
@@ -40,7 +40,7 @@
     }
    ],
    "gap": 1,
-   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 05:28 UTC for the 20 Spanish corpora (check es-boe-estatal-20261128T052859Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -55,9 +55,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-26T13:04:42Z",
+   "snapshot": "2026-11-27T23:10:03Z",
    "source": "boe-autonomico",
-   "started": "2026-11-27T06:30:21Z",
+   "started": "2026-11-28T06:32:15Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
